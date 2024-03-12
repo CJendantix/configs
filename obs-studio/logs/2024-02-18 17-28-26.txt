@@ -1,0 +1,90 @@
+17:28:26.296: Platform: Wayland
+17:28:26.296: CPU Name: AMD Ryzen 7 5800X 8-Core Processor
+17:28:26.296: CPU Speed: 4849.460MHz
+17:28:26.297: Physical Cores: 8, Logical Cores: 16
+17:28:26.297: Physical Memory: 32018MB Total, 23599MB Free
+17:28:26.297: Kernel Version: Linux 6.7.5-arch1-1
+17:28:26.297: Distribution: "Arch Linux" Unknown
+17:28:26.297: Desktop Environment: Hyprland
+17:28:26.297: Session Type: wayland
+17:28:26.298: Qt Version: 6.6.2 (runtime), 6.6.2 (compiled)
+17:28:26.298: Portable mode: false
+17:28:26.332: OBS 30.0.2-4 (linux)
+17:28:26.332: ---------------------------------
+17:28:26.332: ---------------------------------
+17:28:26.332: audio settings reset:
+17:28:26.332: 	samples per sec: 48000
+17:28:26.332: 	speakers:        2
+17:28:26.332: 	max buffering:   960 milliseconds
+17:28:26.332: 	buffering type:  dynamically increasing
+17:28:26.333: ---------------------------------
+17:28:26.333: Initializing OpenGL...
+17:28:26.333: Using EGL/Wayland
+17:28:26.340: Initialized EGL 1.5
+17:28:26.362: Loading up OpenGL on adapter NVIDIA Corporation NVIDIA GeForce RTX 3060 Ti/PCIe/SSE2
+17:28:26.362: OpenGL loaded successfully, version 3.3.0 NVIDIA 545.29.06, shading language 3.30 NVIDIA via Cg compiler
+17:28:26.379: ---------------------------------
+17:28:26.379: video settings reset:
+17:28:26.379: 	base resolution:   1280x1024
+17:28:26.379: 	output resolution: 900x720
+17:28:26.379: 	downscale filter:  Bicubic
+17:28:26.379: 	fps:               60/1
+17:28:26.379: 	format:            NV12
+17:28:26.379: 	YUV mode:          Rec. 709/Partial
+17:28:26.379: NV12 texture support not available
+17:28:26.379: P010 texture support not available
+17:28:26.379: Audio monitoring device:
+17:28:26.379: 	name: Default
+17:28:26.379: 	id: default
+17:28:26.379: ---------------------------------
+17:28:26.385: Failed to load 'en-US' text for module: 'decklink-captions.so'
+17:28:26.390: Failed to load 'en-US' text for module: 'decklink-output-ui.so'
+17:28:26.395: A DeckLink iterator could not be created.  The DeckLink drivers may not be installed
+17:28:26.395: Failed to initialize module 'decklink.so'
+17:28:26.397: os_dlopen(/usr//lib/obs-plugins/frontend-tools.so->/usr//lib/obs-plugins/frontend-tools.so): libluajit-5.1.so.2: cannot open shared object file: No such file or directory
+17:28:26.397: 
+17:28:26.399: os_dlopen(/usr//lib/obs-plugins/frontend-tools.so->/usr//lib/obs-plugins/frontend-tools.so): libluajit-5.1.so.2: cannot open shared object file: No such file or directory
+17:28:26.399: 
+17:28:26.399: Module '/usr//lib/obs-plugins/frontend-tools.so' not loaded
+17:28:26.426: [pipewire] No captures available
+17:28:26.439: v4l2loopback not installed, virtual camera disabled
+17:28:26.465: NVENC supported
+17:28:26.465: LIBVA_DRIVER_NAME variable is set, this could prevent FFmpeg VAAPI from working correctly
+17:28:26.555: VAAPI: API version 1.20
+17:28:26.575: FFmpeg VAAPI H264 encoding supported
+17:28:26.636: FFmpeg VAAPI HEVC encoding supported
+17:28:26.763: ---------------------------------
+17:28:26.763:   Loaded Modules:
+17:28:26.763:     text-freetype2.so
+17:28:26.763:     rtmp-services.so
+17:28:26.763:     obs-x264.so
+17:28:26.763:     obs-webrtc.so
+17:28:26.763:     obs-vst.so
+17:28:26.763:     obs-transitions.so
+17:28:26.763:     obs-qsv11.so
+17:28:26.763:     obs-outputs.so
+17:28:26.763:     obs-libfdk.so
+17:28:26.763:     obs-filters.so
+17:28:26.763:     obs-ffmpeg.so
+17:28:26.763:     linux-v4l2.so
+17:28:26.763:     linux-pulseaudio.so
+17:28:26.763:     linux-pipewire.so
+17:28:26.763:     linux-jack.so
+17:28:26.763:     linux-capture.so
+17:28:26.763:     linux-alsa.so
+17:28:26.763:     image-source.so
+17:28:26.763:     decklink-output-ui.so
+17:28:26.763:     decklink-captions.so
+17:28:26.763: ---------------------------------
+17:28:26.763: ==== Startup complete ===============================================
+17:28:26.782: All scene data cleared
+17:28:26.782: ------------------------------------------------
+17:28:26.783: pulse-input: Unable to get server info !
+17:28:26.783: [Loaded global audio device]: 'Desktop Audio'
+17:28:26.783: pulse-input: Unable to get server info !
+17:28:26.783: [Loaded global audio device]: 'Mic/Aux'
+17:28:26.784: Switched to scene 'Scene'
+17:28:26.784: ------------------------------------------------
+17:28:26.784: Loaded scenes:
+17:28:26.784: - scene 'Scene':
+17:28:26.784: ------------------------------------------------

@@ -1,0 +1,64 @@
+Launching "Rocket League®" (legendary)
+Native? No
+Installed in: /home/cj/Games/Heroic/rocketleague
+
+System Info:
+CPU: 16x AMD Ryzen 7 5800X 8-Core Processor
+Memory: 33.57 GB (used: 1.39 GB)
+GPUs:
+  GPU 0:
+    Name: NVIDIA Corporation GA104 [GeForce RTX 3060 Ti]
+    IDs: D=2486 V=10de SD=147a SV=10de
+    Driver: nvidia
+OS: Arch Linux 6.7.9-arch1-1 (linux)
+
+The current system is not a Steam Deck
+We are not running inside a Flatpak container
+
+Software Versions:
+  Heroic: 2.12.0 Vegapunk
+  Legendary: 0.20.34 Direct Intervention
+  gogdl: 0.7.3
+  Nile: 1.0.0 Jonathan Joestar
+
+Game Settings: {
+	"autoInstallDxvk": true,
+	"autoInstallVkd3d": true,
+	"preferSystemLibs": false,
+	"enableEsync": true,
+	"enableFsync": true,
+	"nvidiaPrime": false,
+	"enviromentOptions": [],
+	"wrapperOptions": [],
+	"showFps": false,
+	"useGameMode": false,
+	"language": "",
+	"wineVersion": {
+		"bin": "/home/cj/.local/share/Steam/steamapps/common/Proton 8.0/proton",
+		"name": "Proton - Proton 8.0",
+		"type": "proton"
+	},
+	"winePrefix": "/home/cj/Games/Heroic/Prefixes/default/Rocket League",
+	"wineCrossoverBottle": "",
+	"autoInstallDxvkNvapi": true
+}
+
+Game launched at: Tue Mar 12 2024 03:56:01 GMT-0400 (Eastern Daylight Time)
+
+Launch Command: HEROIC_APP_NAME=Sugar HEROIC_APP_RUNNER=legendary HEROIC_APP_SOURCE=epic LD_PRELOAD= DOTNET_BUNDLE_EXTRACT_BASE_DIR= DOTNET_ROOT= STEAM_COMPAT_CLIENT_INSTALL_PATH=/home/cj/.steam/steam STEAM_COMPAT_DATA_PATH="/home/cj/Games/Heroic/Prefixes/default/Rocket League" STEAM_COMPAT_INSTALL_PATH=/home/cj/Games/Heroic/rocketleague WINE_FULLSCREEN_FSR=0 PROTON_ENABLE_NVAPI=1 DXVK_NVAPI_ALLOW_OTHER_DRIVERS=1 STEAM_COMPAT_APP_ID=0 SteamAppId=0 SteamGameId=heroic-rocketleague PROTON_LOG_DIR=/home/cj /opt/heroic/resources/app.asar.unpacked/build/bin/linux/legendary launch Sugar --no-wine --wrapper " '/home/cj/.local/share/Steam/steamapps/common/Proton 8.0/proton' run" --language en
+
+Game Log:
+[cli] INFO: Logging in...
+[Core] INFO: Trying to re-use existing login session...
+[cli] INFO: Checking for updates...
+[Core] INFO: Getting authentication token...
+[cli] INFO: Launching Sugar...
+fsync: up and running.
+wine: RLIMIT_NICE is <= 20, unable to use setpriority safely
+[S_API] SteamAPI_Init(): SteamAPI_IsSteamRunning() did not locate a running instance of Steam.
+[S_API FAIL] SteamAPI_Init() failed
+wine: Read access denied for device L"\\??\\Z:\\", FS volume label and serial are not available.
+wine: Read access denied for device L"\\??\\Z:\\", FS volume label and serial are not available.
+wine: Read access denied for device L"\\??\\Z:\\", FS volume label and serial are not available.
+Detected 1 GPUs for rendering
+============= End of game logs =============

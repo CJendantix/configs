@@ -1,0 +1,6 @@
+2024/02/18-16:28:46.992 29f27 Reusing MANIFEST /home/cj/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2024/02/18-16:28:46.993 29f27 Recovering log #30
+2024/02/18-16:28:46.993 29f27 Reusing old log /home/cj/.config/discord/Local Storage/leveldb/000030.log 
+2024/02/18-16:31:18.423 29f27 Level-0 table #34: started
+2024/02/18-16:31:18.442 29f27 Level-0 table #34: 745816 bytes OK
+2024/02/18-16:31:18.444 29f27 Delete type=0 #30

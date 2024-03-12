@@ -1,0 +1,563 @@
+{
+	"Sugar": {
+		"game": {
+			"app_name": "Sugar",
+			"title": "Rocket League®",
+			"version": "BC2_Update49+443289",
+			"platform_versions": {
+				"Windows": "BC2_Update49+443289"
+			},
+			"cloud_saves_supported": false,
+			"cloud_save_folder": null,
+			"cloud_save_folder_mac": null,
+			"is_dlc": false,
+			"external_activation": null,
+			"launch_options": [],
+			"owned_dlc": []
+		},
+		"install": null,
+		"manifest": {
+			"size": 2284543,
+			"type": "binary",
+			"version": 17,
+			"feature_level": 17,
+			"app_name": "SugarStaging",
+			"launch_exe": "Binaries/Win64/RocketLeague.exe",
+			"launch_command": "",
+			"build_version": "BC2_Update49+443289",
+			"build_id": "5gWfcgZlL5Lw7FRqucjhSOJfLns",
+			"prerequisites": null,
+			"uninstaller": null,
+			"install_tags": [
+				""
+			],
+			"num_files": 15036,
+			"num_chunks": 25874,
+			"disk_size": 29227504086,
+			"download_size": 26593520774,
+			"tag_disk_size": [],
+			"tag_download_size": []
+		}
+	},
+	"__timestamp": {
+		"Sugar": "Sat Mar 09 2024 12:01:50 GMT-0500 (Eastern Standard Time)",
+		"Fortnite": "Tue Mar 12 2024 03:58:10 GMT-0400 (Eastern Daylight Time)"
+	},
+	"Fortnite": {
+		"game": {
+			"app_name": "Fortnite",
+			"title": "Fortnite",
+			"version": "++Fortnite+Release-29.00-CL-32116959-Windows",
+			"platform_versions": {
+				"Windows": "++Fortnite+Release-29.00-CL-32116959-Windows"
+			},
+			"cloud_saves_supported": false,
+			"cloud_save_folder": null,
+			"cloud_save_folder_mac": null,
+			"is_dlc": false,
+			"external_activation": null,
+			"launch_options": [],
+			"owned_dlc": []
+		},
+		"install": null,
+		"manifest": {
+			"size": 7134962,
+			"type": "binary",
+			"version": 21,
+			"feature_level": 21,
+			"app_name": "FortniteReleaseBuilds",
+			"launch_exe": "FortniteGame/Binaries/Win64/FortniteLauncher.exe",
+			"launch_command": " -obfuscationid=PUDM1gqX9YFMZhwW0kqKaajEZTxzfA",
+			"build_version": "++Fortnite+Release-29.00-CL-32116959-Windows",
+			"build_id": "kOEiLL0tHEmFy-KxIBcW5g",
+			"prerequisites": null,
+			"uninstaller": {
+				"path": "Engine/Binaries/Win64/UninstallHelper-Win64-Shipping.exe",
+				"args": "-GameName=FortniteGame -InstallDir=../../../"
+			},
+			"install_tags": [
+				"",
+				"br",
+				"br_highres",
+				"br_ondemand",
+				"br_ondemandoptional",
+				"br_sm6",
+				"chunk0",
+				"chunk0ondemand",
+				"chunk0ondemandoptional",
+				"chunk0optional",
+				"chunk10",
+				"chunk10ondemand",
+				"chunk10ondemandoptional",
+				"chunk10optional",
+				"chunk10sm6",
+				"chunk11",
+				"chunk11optional",
+				"chunk2",
+				"chunk2optional",
+				"chunk5",
+				"chunk5optional",
+				"chunk7",
+				"chunk7optional",
+				"chunk8",
+				"chunk8optional",
+				"chunk9",
+				"chunk9optional",
+				"core",
+				"core_highres",
+				"core_ondemand",
+				"core_ondemandoptional",
+				"loc_de",
+				"loc_de_highres",
+				"loc_fr",
+				"loc_fr_highres",
+				"loc_pl",
+				"loc_pl_highres",
+				"loc_ru",
+				"loc_ru_highres",
+				"loc_zh-CN",
+				"loc_zh-CN_highres",
+				"stw",
+				"stw_highres"
+			],
+			"num_files": 555,
+			"num_chunks": 103301,
+			"disk_size": 108932269634,
+			"download_size": 101330213252,
+			"tag_disk_size": [
+				{
+					"tag": "",
+					"size": 1026599634,
+					"count": 346
+				},
+				{
+					"tag": "br",
+					"size": 40412688660,
+					"count": 13
+				},
+				{
+					"tag": "br_highres",
+					"size": 15698715242,
+					"count": 7
+				},
+				{
+					"tag": "br_ondemand",
+					"size": 6452991664,
+					"count": 5
+				},
+				{
+					"tag": "br_ondemandoptional",
+					"size": 21818837528,
+					"count": 9
+				},
+				{
+					"tag": "br_sm6",
+					"size": 6655643754,
+					"count": 5
+				},
+				{
+					"tag": "chunk0",
+					"size": 2819581670,
+					"count": 8
+				},
+				{
+					"tag": "chunk0ondemand",
+					"size": 419601,
+					"count": 4
+				},
+				{
+					"tag": "chunk0ondemandoptional",
+					"size": 364707,
+					"count": 4
+				},
+				{
+					"tag": "chunk0optional",
+					"size": 930225123,
+					"count": 8
+				},
+				{
+					"tag": "chunk10",
+					"size": 40412688660,
+					"count": 13
+				},
+				{
+					"tag": "chunk10ondemand",
+					"size": 6452991664,
+					"count": 5
+				},
+				{
+					"tag": "chunk10ondemandoptional",
+					"size": 21818837528,
+					"count": 9
+				},
+				{
+					"tag": "chunk10optional",
+					"size": 15698715242,
+					"count": 7
+				},
+				{
+					"tag": "chunk10sm6",
+					"size": 6655643754,
+					"count": 5
+				},
+				{
+					"tag": "chunk11",
+					"size": 4761587761,
+					"count": 102
+				},
+				{
+					"tag": "chunk11optional",
+					"size": 1138677684,
+					"count": 4
+				},
+				{
+					"tag": "chunk2",
+					"size": 1804798889,
+					"count": 4
+				},
+				{
+					"tag": "chunk2optional",
+					"size": 4003699,
+					"count": 4
+				},
+				{
+					"tag": "chunk5",
+					"size": 1705770997,
+					"count": 4
+				},
+				{
+					"tag": "chunk5optional",
+					"size": 1202436,
+					"count": 4
+				},
+				{
+					"tag": "chunk7",
+					"size": 1856617603,
+					"count": 4
+				},
+				{
+					"tag": "chunk7optional",
+					"size": 882376,
+					"count": 4
+				},
+				{
+					"tag": "chunk8",
+					"size": 1836274552,
+					"count": 4
+				},
+				{
+					"tag": "chunk8optional",
+					"size": 1503273,
+					"count": 4
+				},
+				{
+					"tag": "chunk9",
+					"size": 2406509,
+					"count": 4
+				},
+				{
+					"tag": "chunk9optional",
+					"size": 2476272,
+					"count": 4
+				},
+				{
+					"tag": "core",
+					"size": 2819581670,
+					"count": 8
+				},
+				{
+					"tag": "core_highres",
+					"size": 930225123,
+					"count": 8
+				},
+				{
+					"tag": "core_ondemand",
+					"size": 419601,
+					"count": 4
+				},
+				{
+					"tag": "core_ondemandoptional",
+					"size": 364707,
+					"count": 4
+				},
+				{
+					"tag": "loc_de",
+					"size": 1804798889,
+					"count": 4
+				},
+				{
+					"tag": "loc_de_highres",
+					"size": 4003699,
+					"count": 4
+				},
+				{
+					"tag": "loc_fr",
+					"size": 1705770997,
+					"count": 4
+				},
+				{
+					"tag": "loc_fr_highres",
+					"size": 1202436,
+					"count": 4
+				},
+				{
+					"tag": "loc_pl",
+					"size": 1856617603,
+					"count": 4
+				},
+				{
+					"tag": "loc_pl_highres",
+					"size": 882376,
+					"count": 4
+				},
+				{
+					"tag": "loc_ru",
+					"size": 1836274552,
+					"count": 4
+				},
+				{
+					"tag": "loc_ru_highres",
+					"size": 1503273,
+					"count": 4
+				},
+				{
+					"tag": "loc_zh-CN",
+					"size": 2406509,
+					"count": 4
+				},
+				{
+					"tag": "loc_zh-CN_highres",
+					"size": 2476272,
+					"count": 4
+				},
+				{
+					"tag": "stw",
+					"size": 4761587761,
+					"count": 102
+				},
+				{
+					"tag": "stw_highres",
+					"size": 1138677684,
+					"count": 4
+				}
+			],
+			"tag_download_size": [
+				{
+					"tag": "",
+					"size": 597726201,
+					"count": 972
+				},
+				{
+					"tag": "br",
+					"size": 36802085791,
+					"count": 38272
+				},
+				{
+					"tag": "br_highres",
+					"size": 14909194387,
+					"count": 14923
+				},
+				{
+					"tag": "br_ondemand",
+					"size": 6185913955,
+					"count": 6158
+				},
+				{
+					"tag": "br_ondemandoptional",
+					"size": 20915300724,
+					"count": 20736
+				},
+				{
+					"tag": "br_sm6",
+					"size": 6439186172,
+					"count": 6350
+				},
+				{
+					"tag": "chunk0",
+					"size": 2592918714,
+					"count": 2692
+				},
+				{
+					"tag": "chunk0ondemand",
+					"size": 979736,
+					"count": 1
+				},
+				{
+					"tag": "chunk0ondemandoptional",
+					"size": 979736,
+					"count": 1
+				},
+				{
+					"tag": "chunk0optional",
+					"size": 883281373,
+					"count": 887
+				},
+				{
+					"tag": "chunk10",
+					"size": 36802085791,
+					"count": 38272
+				},
+				{
+					"tag": "chunk10ondemand",
+					"size": 6185913955,
+					"count": 6158
+				},
+				{
+					"tag": "chunk10ondemandoptional",
+					"size": 20915300724,
+					"count": 20736
+				},
+				{
+					"tag": "chunk10optional",
+					"size": 14909194387,
+					"count": 14923
+				},
+				{
+					"tag": "chunk10sm6",
+					"size": 6439186172,
+					"count": 6350
+				},
+				{
+					"tag": "chunk11",
+					"size": 4431200558,
+					"count": 4544
+				},
+				{
+					"tag": "chunk11optional",
+					"size": 1087438653,
+					"count": 1091
+				},
+				{
+					"tag": "chunk2",
+					"size": 1677137495,
+					"count": 1724
+				},
+				{
+					"tag": "chunk2optional",
+					"size": 5690461,
+					"count": 6
+				},
+				{
+					"tag": "chunk5",
+					"size": 1582596016,
+					"count": 1630
+				},
+				{
+					"tag": "chunk5optional",
+					"size": 1776935,
+					"count": 2
+				},
+				{
+					"tag": "chunk7",
+					"size": 1727246971,
+					"count": 1775
+				},
+				{
+					"tag": "chunk7optional",
+					"size": 1906420,
+					"count": 2
+				},
+				{
+					"tag": "chunk8",
+					"size": 1701110329,
+					"count": 1754
+				},
+				{
+					"tag": "chunk8optional",
+					"size": 2921516,
+					"count": 3
+				},
+				{
+					"tag": "chunk9",
+					"size": 2880704,
+					"count": 3
+				},
+				{
+					"tag": "chunk9optional",
+					"size": 3430276,
+					"count": 6
+				},
+				{
+					"tag": "core",
+					"size": 2592918714,
+					"count": 2692
+				},
+				{
+					"tag": "core_highres",
+					"size": 883281373,
+					"count": 887
+				},
+				{
+					"tag": "core_ondemand",
+					"size": 979736,
+					"count": 1
+				},
+				{
+					"tag": "core_ondemandoptional",
+					"size": 979736,
+					"count": 1
+				},
+				{
+					"tag": "loc_de",
+					"size": 1677137495,
+					"count": 1724
+				},
+				{
+					"tag": "loc_de_highres",
+					"size": 5690461,
+					"count": 6
+				},
+				{
+					"tag": "loc_fr",
+					"size": 1582596016,
+					"count": 1630
+				},
+				{
+					"tag": "loc_fr_highres",
+					"size": 1776935,
+					"count": 2
+				},
+				{
+					"tag": "loc_pl",
+					"size": 1727246971,
+					"count": 1775
+				},
+				{
+					"tag": "loc_pl_highres",
+					"size": 1906420,
+					"count": 2
+				},
+				{
+					"tag": "loc_ru",
+					"size": 1701110329,
+					"count": 1754
+				},
+				{
+					"tag": "loc_ru_highres",
+					"size": 2921516,
+					"count": 3
+				},
+				{
+					"tag": "loc_zh-CN",
+					"size": 2880704,
+					"count": 3
+				},
+				{
+					"tag": "loc_zh-CN_highres",
+					"size": 3430276,
+					"count": 6
+				},
+				{
+					"tag": "stw",
+					"size": 4431200558,
+					"count": 4544
+				},
+				{
+					"tag": "stw_highres",
+					"size": 1087438653,
+					"count": 1091
+				}
+			]
+		}
+	}
+}

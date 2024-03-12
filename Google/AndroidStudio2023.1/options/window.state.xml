@@ -1,0 +1,15 @@
+<application>
+  <component name="DimensionService">
+    <location key="WELCOME_SCREEN.1280.0.1920.1080" x="2240" y="497" />
+  </component>
+  <component name="WindowStateApplicationService">
+    <state x="2240" y="561" width="1876" height="994" key="WELCOME_SCREEN" timestamp="1708388553753">
+      <screen x="1280" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2240" y="561" width="1876" height="994" key="WELCOME_SCREEN/0.0.1280.1024/1280.0.1920.1080/3200.0.1280.1024" timestamp="1708388553753" />
+    <state x="1302" y="64" width="1876" height="994" key="com.android.tools.idea.devicemanagerv2.DeviceManagerWelcomeScreenFrame" timestamp="1708388553768">
+      <screen x="1280" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1302" y="64" width="1876" height="994" key="com.android.tools.idea.devicemanagerv2.DeviceManagerWelcomeScreenFrame/0.0.1280.1024/1280.0.1920.1080/3200.0.1280.1024" timestamp="1708388553768" />
+  </component>
+</application>

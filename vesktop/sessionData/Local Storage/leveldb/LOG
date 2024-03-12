@@ -1,0 +1,8 @@
+2024/03/12-12:45:07.513 b9a Reusing MANIFEST /home/cj/.config/vesktop/sessionData/Local Storage/leveldb/MANIFEST-000001
+2024/03/12-12:45:07.520 b9a Recovering log #108
+2024/03/12-12:45:07.521 b9a Level-0 table #112: started
+2024/03/12-12:45:07.522 b9a Level-0 table #112: 26337 bytes OK
+2024/03/12-12:45:07.524 b9a Delete type=0 #108
+2024/03/12-13:05:15.216 b9b Level-0 table #115: started
+2024/03/12-13:05:15.227 b9b Level-0 table #115: 26107 bytes OK
+2024/03/12-13:05:15.228 b9b Delete type=0 #113

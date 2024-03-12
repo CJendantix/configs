@@ -1,0 +1,115 @@
+17:37:55.058: Platform: Wayland
+17:37:55.058: CPU Name: AMD Ryzen 7 5800X 8-Core Processor
+17:37:55.058: CPU Speed: 2200.000MHz
+17:37:55.058: Physical Cores: 8, Logical Cores: 16
+17:37:55.058: Physical Memory: 32018MB Total, 25105MB Free
+17:37:55.058: Kernel Version: Linux 6.7.5-arch1-1
+17:37:55.058: Distribution: "Arch Linux" Unknown
+17:37:55.058: Desktop Environment: Hyprland
+17:37:55.058: Session Type: wayland
+17:37:55.060: Qt Version: 6.6.2 (runtime), 6.6.2 (compiled)
+17:37:55.060: Portable mode: false
+17:37:55.093: OBS 30.0.2-4 (linux)
+17:37:55.093: ---------------------------------
+17:37:55.093: ---------------------------------
+17:37:55.093: audio settings reset:
+17:37:55.093: 	samples per sec: 48000
+17:37:55.093: 	speakers:        2
+17:37:55.093: 	max buffering:   960 milliseconds
+17:37:55.093: 	buffering type:  dynamically increasing
+17:37:55.095: ---------------------------------
+17:37:55.095: Initializing OpenGL...
+17:37:55.095: Using EGL/Wayland
+17:37:55.103: Initialized EGL 1.5
+17:37:55.123: Loading up OpenGL on adapter NVIDIA Corporation NVIDIA GeForce RTX 3060 Ti/PCIe/SSE2
+17:37:55.123: OpenGL loaded successfully, version 3.3.0 NVIDIA 545.29.06, shading language 3.30 NVIDIA via Cg compiler
+17:37:55.140: ---------------------------------
+17:37:55.140: video settings reset:
+17:37:55.140: 	base resolution:   1280x1024
+17:37:55.140: 	output resolution: 900x720
+17:37:55.140: 	downscale filter:  Bicubic
+17:37:55.140: 	fps:               60/1
+17:37:55.140: 	format:            NV12
+17:37:55.140: 	YUV mode:          Rec. 709/Partial
+17:37:55.140: NV12 texture support not available
+17:37:55.140: P010 texture support not available
+17:37:55.141: Audio monitoring device:
+17:37:55.141: 	name: Default
+17:37:55.141: 	id: default
+17:37:55.141: ---------------------------------
+17:37:55.146: Failed to load 'en-US' text for module: 'decklink-captions.so'
+17:37:55.152: Failed to load 'en-US' text for module: 'decklink-output-ui.so'
+17:37:55.156: A DeckLink iterator could not be created.  The DeckLink drivers may not be installed
+17:37:55.156: Failed to initialize module 'decklink.so'
+17:37:55.158: os_dlopen(/usr//lib/obs-plugins/frontend-tools.so->/usr//lib/obs-plugins/frontend-tools.so): libluajit-5.1.so.2: cannot open shared object file: No such file or directory
+17:37:55.158: 
+17:37:55.160: os_dlopen(/usr//lib/obs-plugins/frontend-tools.so->/usr//lib/obs-plugins/frontend-tools.so): libluajit-5.1.so.2: cannot open shared object file: No such file or directory
+17:37:55.160: 
+17:37:55.160: Module '/usr//lib/obs-plugins/frontend-tools.so' not loaded
+17:37:55.187: [pipewire] Available captures:
+17:37:55.187: [pipewire]     - Desktop capture
+17:37:55.187: [pipewire]     - Window capture
+17:37:55.200: v4l2loopback not installed, virtual camera disabled
+17:37:55.227: NVENC supported
+17:37:55.227: LIBVA_DRIVER_NAME variable is set, this could prevent FFmpeg VAAPI from working correctly
+17:37:55.321: VAAPI: API version 1.20
+17:37:55.341: FFmpeg VAAPI H264 encoding supported
+17:37:55.400: FFmpeg VAAPI HEVC encoding supported
+17:37:55.528: ---------------------------------
+17:37:55.528:   Loaded Modules:
+17:37:55.528:     text-freetype2.so
+17:37:55.528:     rtmp-services.so
+17:37:55.528:     obs-x264.so
+17:37:55.528:     obs-webrtc.so
+17:37:55.528:     obs-vst.so
+17:37:55.528:     obs-transitions.so
+17:37:55.528:     obs-qsv11.so
+17:37:55.528:     obs-outputs.so
+17:37:55.528:     obs-libfdk.so
+17:37:55.528:     obs-filters.so
+17:37:55.528:     obs-ffmpeg.so
+17:37:55.528:     linux-v4l2.so
+17:37:55.528:     linux-pulseaudio.so
+17:37:55.528:     linux-pipewire.so
+17:37:55.528:     linux-jack.so
+17:37:55.528:     linux-capture.so
+17:37:55.528:     linux-alsa.so
+17:37:55.528:     image-source.so
+17:37:55.528:     decklink-output-ui.so
+17:37:55.528:     decklink-captions.so
+17:37:55.528: ---------------------------------
+17:37:55.528: ==== Startup complete ===============================================
+17:37:55.544: All scene data cleared
+17:37:55.544: ------------------------------------------------
+17:37:55.545: pulse-input: Unable to get server info !
+17:37:55.545: [Loaded global audio device]: 'Desktop Audio'
+17:37:55.545: pulse-input: Unable to get server info !
+17:37:55.545: [Loaded global audio device]: 'Mic/Aux'
+17:37:55.545: PipeWire initialized
+17:37:55.546: Switched to scene 'Scene'
+17:37:55.546: ------------------------------------------------
+17:37:55.546: Loaded scenes:
+17:37:55.546: - scene 'Scene':
+17:37:55.546:     - source: 'Window Capture (PipeWire)' (pipewire-window-capture-source)
+17:37:55.546: ------------------------------------------------
+17:37:55.563: [pipewire] Screencast session created
+17:37:58.019: [pipewire] Asking for window
+17:37:58.020: [pipewire] window selected, setting up screencast
+17:37:58.024: [pipewire] Server version: 1.0.3
+17:37:58.024: [pipewire] Library version: 1.0.3
+17:37:58.024: [pipewire] Header version: 1.0.3
+17:37:58.024: [pipewire] Created stream 0x61889e50b090
+17:37:58.024: [pipewire] Stream 0x61889e50b090 state: "connecting" (error: none)
+17:37:58.024: [pipewire] Playing stream 0x61889e50b090
+17:37:58.024: [pipewire] Stream 0x61889e50b090 state: "paused" (error: none)
+17:37:58.026: [pipewire] Negotiated format:
+17:37:58.026: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+17:37:58.026: [pipewire]     Modifier: 0x0
+17:37:58.026: [pipewire]     Size: 1280x1024
+17:37:58.026: [pipewire]     Framerate: 0/1
+17:37:58.026: [pipewire] Negotiated format:
+17:37:58.026: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+17:37:58.026: [pipewire]     Modifier: 0x300000000e08014
+17:37:58.026: [pipewire]     Size: 1280x1024
+17:37:58.026: [pipewire]     Framerate: 0/1
+17:37:58.026: [pipewire] Stream 0x61889e50b090 state: "streaming" (error: none)

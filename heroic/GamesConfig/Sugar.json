@@ -1,0 +1,25 @@
+{
+  "Sugar": {
+    "autoInstallDxvk": true,
+    "autoInstallVkd3d": true,
+    "preferSystemLibs": false,
+    "enableEsync": true,
+    "enableFsync": true,
+    "nvidiaPrime": false,
+    "enviromentOptions": [],
+    "wrapperOptions": [],
+    "showFps": false,
+    "useGameMode": false,
+    "language": "",
+    "wineVersion": {
+      "bin": "/home/cj/.local/share/Steam/steamapps/common/Proton 8.0/proton",
+      "name": "Proton - Proton 8.0",
+      "type": "proton"
+    },
+    "winePrefix": "/home/cj/Games/Heroic/Prefixes/default/Rocket League",
+    "wineCrossoverBottle": "",
+    "autoInstallDxvkNvapi": true
+  },
+  "version": "v0",
+  "explicit": true
+}

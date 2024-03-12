@@ -1,0 +1,70 @@
+{
+	"general-logs": {
+		"currentLogFile": "/home/cj/.config/heroic/logs/2024-03-12T07_53_39-heroic.log",
+		"lastLogFile": "/home/cj/.config/heroic/logs/2024-03-12T07_52_26-heroic.log",
+		"legendaryLogFile": "/home/cj/.config/heroic/logs/2024-03-12T07_53_39-legendary.log",
+		"gogdlLogFile": "/home/cj/.config/heroic/logs/2024-03-12T07_53_39-gogdl.log",
+		"nileLogFile": "/home/cj/.config/heroic/logs/2024-03-12T07_53_39-nile.log"
+	},
+	"settings": {
+		"checkUpdatesInterval": 10,
+		"enableUpdates": false,
+		"addDesktopShortcuts": false,
+		"addStartMenuShortcuts": false,
+		"autoInstallDxvk": true,
+		"autoInstallVkd3d": true,
+		"autoInstallDxvkNvapi": false,
+		"addSteamShortcuts": false,
+		"preferSystemLibs": false,
+		"checkForUpdatesOnStartup": true,
+		"autoUpdateGames": false,
+		"customWinePaths": [],
+		"defaultInstallPath": "/home/cj/Games/Heroic",
+		"libraryTopSection": "disabled",
+		"defaultSteamPath": "/home/cj/.steam/steam",
+		"defaultWinePrefix": "/home/cj/Games/Heroic/Prefixes/default",
+		"hideChangelogsOnStartup": false,
+		"language": "en",
+		"maxWorkers": 0,
+		"minimizeOnLaunch": false,
+		"nvidiaPrime": false,
+		"enviromentOptions": [],
+		"wrapperOptions": [],
+		"showFps": false,
+		"useGameMode": false,
+		"wineCrossoverBottle": "Heroic",
+		"winePrefix": "/home/cj/Games/Heroic/Prefixes/default",
+		"wineVersion": {
+			"bin": "",
+			"name": "Default Wine - Not Found",
+			"type": "wine"
+		},
+		"enableEsync": true,
+		"enableFsync": true,
+		"eacRuntime": true,
+		"battlEyeRuntime": true,
+		"framelessWindow": false
+	},
+	"userHome": "/home/cj",
+	"language": "en",
+	"userInfo": {
+		"account_id": "fe87e0cb66c946dfaa03c1ab19729775",
+		"displayName": "CJendantix",
+		"user": "cj"
+	},
+	"games": {
+		"recent": [
+			{
+				"appName": "Sugar",
+				"title": "Rocket League®"
+			}
+		]
+	},
+	"window-props": {
+		"x": 2247,
+		"y": 64,
+		"width": 931,
+		"height": 994,
+		"maximized": false
+	}
+}
