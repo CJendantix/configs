@@ -1,0 +1,8 @@
+2024-03-31 05:09:35.383 [info] Started local extension host with pid 22139.
+2024-03-31 05:09:38.260 [info] [perf] Render performance baseline is 17ms
+2024-03-31 05:10:44.007 [info] Started local extension host with pid 22457.
+2024-03-31 05:10:46.900 [info] [perf] Render performance baseline is 17ms
+2024-03-31 05:11:44.665 [warning] [File Watcher (parcel)] Watcher shutdown because watched path got deleted (path: /home/cj/.local/share/PrismLauncher/instances/1.20.4/.minecraft/saves/New World/datapacks)
+2024-03-31 05:14:06.520 [info] Started local extension host with pid 23186.
+2024-03-31 05:14:09.409 [info] [perf] Render performance baseline is 19ms
+2024-03-31 06:03:16.311 [warning] Semantic token with invalid length detected at lineNumber 1, column 16

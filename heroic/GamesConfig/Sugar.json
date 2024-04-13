@@ -10,6 +10,7 @@
     "wrapperOptions": [],
     "showFps": false,
     "useGameMode": false,
+    "useSteamRuntime": false,
     "language": "",
     "wineVersion": {
       "bin": "/home/cj/.local/share/Steam/steamapps/common/Proton 8.0/proton",

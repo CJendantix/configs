@@ -1,0 +1,7 @@
+Threshold = 95
+DisplayMonitorSources = false
+EnableUpdates = true
+FilterInput = true
+FilterOutput = false
+LastUsedInput = "alsa_input.usb-BLUE_MICROPHONES_Blue_Snowball-00.mono-fallback"
+LastUsedOutput = ""

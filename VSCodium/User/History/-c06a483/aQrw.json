@@ -1,0 +1,7 @@
+{
+    "workbench.colorTheme": "Catppuccin Frappé",
+    "catppuccin.accentColor": "maroon",
+    "editor.largeFileOptimizations": false,
+    "rust-analyzer.check.command": "clippy",
+    "git.suggestSmartCommit": false
+}

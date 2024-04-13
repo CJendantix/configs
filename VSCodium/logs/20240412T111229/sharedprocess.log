@@ -1,0 +1,29 @@
+2024-04-12 11:12:30.531 [info] Deleted uninstalled extension from disk rust-lang.rust-analyzer /home/cj/.vscode-oss/extensions/rust-lang.rust-analyzer-0.3.1906-linux-x64
+2024-04-12 11:12:30.564 [info] Deleted uninstalled extension from disk ms-python.debugpy /home/cj/.vscode-oss/extensions/ms-python.debugpy-2024.2.0-linux-x64
+2024-04-12 11:12:30.588 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/cj/.vscode-oss/extensions/ms-python.debugpy-2024.2.0-linux-x64.7e0ce6af.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/cj/.vscode-oss/extensions/ms-python.debugpy-2024.2.0-linux-x64.7e0ce6af.vsctmp'
+    at r.create (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:35658)
+    at a (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:35793)
+    at i.toFileSystemProviderError (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:48621)
+    at i.stat (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:39216)
+    at async w.stat (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:21720)
+    at async Y.onDidFilesChange (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:102:133810)
+2024-04-12 11:12:34.654 [info] Getting Manifest... ms-python.python
+2024-04-12 11:12:35.382 [info] Installing extension: ms-python.python
+2024-04-12 11:12:38.559 [error] Could not load vsce-sign module Cannot find module '@vscode/vsce-sign'
+Require stack:
+- /usr/share/vscodium/resources/app/out/bootstrap-amd.js
+- /usr/share/vscodium/resources/app/out/bootstrap-fork.js
+- 
+2024-04-12 11:12:38.564 [info] Extension signature verification is not done: ms-python.python
+2024-04-12 11:12:39.488 [info] Extracted extension to file:///home/cj/.vscode-oss/extensions/ms-python.python-2024.4.1-universal: ms-python.python
+2024-04-12 11:12:39.492 [info] Renamed to /home/cj/.vscode-oss/extensions/ms-python.python-2024.4.1-universal
+2024-04-12 11:12:39.494 [info] Extracting extension completed. ms-python.python
+2024-04-12 11:12:39.500 [info] Extension installed successfully: ms-python.python
+2024-04-12 11:12:39.502 [info] Marked extension as uninstalled ms-python.python-2024.2.1-universal
+2024-04-12 11:12:39.575 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/cj/.vscode-oss/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/cj/.vscode-oss/extensions/extensions.json.vsctmp'
+    at r.create (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:35658)
+    at a (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:35793)
+    at i.toFileSystemProviderError (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:48621)
+    at i.stat (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:39216)
+    at async w.stat (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:21720)
+    at async Y.onDidFilesChange (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:102:133810)

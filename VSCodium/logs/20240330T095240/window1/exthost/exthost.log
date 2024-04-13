@@ -1,0 +1,29 @@
+2024-03-30 09:52:42.158 [info] Extension host with pid 5798 started
+2024-03-30 09:52:42.158 [info] Skipping acquiring lock for /home/cj/.config/VSCodium/User/workspaceStorage/a2f444110d9fc776ed76325f41cda10a.
+2024-03-30 09:52:42.186 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-03-30 09:52:42.223 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-03-30 09:52:42.224 [info] ExtensionService#_doActivateExtension hbenl.test-adapter-converter, startup: true, activationEvent: '*', root cause: hbenl.vscode-test-explorer
+2024-03-30 09:52:42.238 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-03-30 09:52:42.256 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-03-30 09:52:42.261 [info] ExtensionService#_doActivateExtension hbenl.vscode-test-explorer, startup: true, activationEvent: '*'
+2024-03-30 09:52:42.295 [info] Eager extensions activated
+2024-03-30 09:52:42.311 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-03-30 09:52:42.313 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-03-30 09:52:42.316 [info] ExtensionService#_doActivateExtension Catppuccin.catppuccin-vsc, startup: false, activationEvent: 'onStartupFinished'
+2024-03-30 09:52:42.320 [info] ExtensionService#_doActivateExtension vadimcn.vscode-lldb, startup: false, activationEvent: 'onStartupFinished'
+2024-03-30 09:53:22.288 [info] ExtensionService#_doActivateExtension mads-hartmann.bash-ide-vscode, startup: false, activationEvent: 'onLanguage:shellscript'
+2024-03-30 09:54:36.999 [info] Extension host terminating: renderer closed the MessagePort
+2024-03-30 09:54:37.002 [error] An error occurred when deactivating the extension 'mads-hartmann.bash-ide-vscode':
+2024-03-30 09:54:37.002 [error] TypeError: Cannot read properties of undefined (reading 'stop')
+	at Object.deactivate (/home/cj/.vscode-oss/extensions/mads-hartmann.bash-ide-vscode-1.38.0-universal/out/extension.js:63:19)
+	at b._deactivate (/usr/share/vscodium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:156:12676)
+	at /usr/share/vscodium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:156:10145
+	at Array.map (<anonymous>)
+	at b._deactivateAll (/usr/share/vscodium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:156:10132)
+	at b.terminate (/usr/share/vscodium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:156:10515)
+	at o.terminate (/usr/share/vscodium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:160:1908)
+	at t (/usr/share/vscodium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:173:11683)
+	at MessagePortMain.<anonymous> (/usr/share/vscodium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:173:7758)
+	at MessagePortMain.emit (node:events:514:28)
+	at Object.emit (node:electron/js2c/utility_init:2:2285)
+2024-03-30 09:54:37.003 [info] Extension host with pid 5798 exiting with code 0

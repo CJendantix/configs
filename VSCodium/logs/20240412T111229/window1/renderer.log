@@ -1,0 +1,7 @@
+2024-04-12 11:12:30.045 [info] Started local extension host with pid 17898.
+2024-04-12 11:12:30.105 [error] Extension 'ms-python.debugpy' appears in product.json but enables LESS API proposals than the extension wants.
+package.json (LOSES): portsAttributes, contribIssueReporter
+product.json (WINS): portsAttributes
+2024-04-12 11:12:30.124 [error] [ms-python.debugpy]: issue/reporter is a proposed menu identifier. It requires 'package.json#enabledApiProposals: ["contribIssueReporter"]' and is only available when running out of dev or with the following command line switch: --enable-proposed-api ms-python.debugpy
+2024-04-12 11:12:33.254 [info] [perf] Render performance baseline is 22ms
+2024-04-12 11:26:51.961 [warning] Semantic token with invalid length detected at lineNumber 66, column 17

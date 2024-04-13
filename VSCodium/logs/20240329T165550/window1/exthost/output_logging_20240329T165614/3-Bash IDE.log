@@ -1,0 +1,958 @@
+[Info  - 5:31:09 PM] 21:31:09.900 INFO BackgroundAnalysis: resolving glob "**/*@(.sh|.inc|.bash|.command)" inside "file:///home/cj/.local/share/scripts"...
+[Info  - 5:31:09 PM] 21:31:09.907 INFO BackgroundAnalysis: Glob resolved with 3 files after 0.006 seconds
+[Warn  - 5:31:09 PM] 21:31:09.910 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/workspaces-move.sh: syntax error
+[Warn  - 5:31:09 PM] 21:31:09.911 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/workspaces.sh: syntax error
+[Info  - 5:31:09 PM] 21:31:09.911 INFO BackgroundAnalysis: Completed after 0.01 seconds.
+[Warn  - 5:31:20 PM] 21:31:20.558 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 5:31:31 PM] 21:31:31.522 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 5:31:33 PM] 21:31:33.935 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 5:31:58 PM] 21:31:58.749 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 5:32:01 PM] 21:32:01.350 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 5:32:03 PM] 21:32:03.669 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 5:32:20 PM] 21:32:20.897 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 5:32:26 PM] 21:32:26.360 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 5:32:26 PM] 21:32:26.866 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 5:32:27 PM] 21:32:27.237 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 5:32:34 PM] 21:32:34.637 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 5:32:58 PM] 21:32:58.994 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 5:32:59 PM] 21:32:59.252 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 5:33:00 PM] 21:33:00.206 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 5:33:00 PM] 21:33:00.562 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 5:33:10 PM] 21:33:10.356 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 5:33:14 PM] 21:33:14.112 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 5:33:16 PM] 21:33:16.447 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 5:33:20 PM] 21:33:20.979 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 5:33:28 PM] 21:33:28.305 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 5:33:33 PM] 21:33:33.266 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 5:33:33 PM] 21:33:33.705 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 5:33:34 PM] 21:33:34.496 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 5:33:35 PM] 21:33:35.249 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 5:33:35 PM] 21:33:35.764 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 5:33:43 PM] 21:33:43.783 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 5:33:50 PM] 21:33:50.060 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 5:33:56 PM] 21:33:56.858 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 5:33:59 PM] 21:33:59.532 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 5:34:07 PM] 21:34:07.995 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 5:34:11 PM] 21:34:11.298 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 5:34:32 PM] 21:34:32.323 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 5:34:55 PM] 21:34:55.260 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 5:35:02 PM] 21:35:02.891 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 5:35:06 PM] 21:35:06.959 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 5:35:07 PM] 21:35:07.862 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 5:35:15 PM] 21:35:15.721 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 5:35:17 PM] 21:35:17.587 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 5:35:41 PM] 21:35:41.396 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 5:35:56 PM] 21:35:56.547 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 5:35:58 PM] 21:35:58.812 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 5:36:04 PM] 21:36:04.732 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 5:36:06 PM] 21:36:06.111 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 5:36:06 PM] 21:36:06.726 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 5:36:07 PM] 21:36:07.097 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 5:36:07 PM] 21:36:07.129 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 5:36:07 PM] 21:36:07.763 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 5:36:08 PM] 21:36:08.012 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 5:36:08 PM] 21:36:08.352 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 5:36:08 PM] 21:36:08.418 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 5:36:08 PM] 21:36:08.723 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 5:36:08 PM] 21:36:08.934 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 5:36:09 PM] 21:36:09.281 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 5:36:10 PM] 21:36:10.586 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 5:36:11 PM] 21:36:11.004 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 5:36:11 PM] 21:36:11.104 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 5:36:11 PM] 21:36:11.519 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 5:36:11 PM] 21:36:11.623 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 5:36:11 PM] 21:36:11.973 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 5:36:12 PM] 21:36:12.603 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 5:36:13 PM] 21:36:13.059 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 5:36:14 PM] 21:36:14.613 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 5:36:16 PM] 21:36:16.540 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 5:36:16 PM] 21:36:16.968 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 5:36:17 PM] 21:36:17.011 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 5:36:17 PM] 21:36:17.529 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 5:36:17 PM] 21:36:17.755 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 5:36:18 PM] 21:36:18.104 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 5:36:20 PM] 21:36:20.823 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 5:36:21 PM] 21:36:21.278 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 5:36:21 PM] 21:36:21.727 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 5:36:21 PM] 21:36:21.828 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 5:36:22 PM] 21:36:22.506 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 5:36:22 PM] 21:36:22.705 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 5:36:23 PM] 21:36:23.063 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 5:36:23 PM] 21:36:23.320 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 5:36:23 PM] 21:36:23.420 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 5:36:23 PM] 21:36:23.757 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 5:36:25 PM] 21:36:25.086 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 5:36:25 PM] 21:36:25.568 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 5:36:26 PM] 21:36:26.425 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 5:36:26 PM] 21:36:26.565 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 5:36:26 PM] 21:36:26.918 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 5:36:27 PM] 21:36:27.697 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 5:36:28 PM] 21:36:28.685 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 5:36:28 PM] 21:36:28.956 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 5:37:28 PM] 21:37:28.176 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 5:37:29 PM] 21:37:29.094 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 5:37:30 PM] 21:37:30.905 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 5:37:33 PM] 21:37:33.427 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 5:37:35 PM] 21:37:35.559 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 5:37:35 PM] 21:37:35.659 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 5:37:37 PM] 21:37:37.976 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 5:37:40 PM] 21:37:40.748 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 5:37:40 PM] 21:37:40.916 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 5:37:41 PM] 21:37:41.133 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 5:37:45 PM] 21:37:45.834 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 5:47:22 PM] 21:47:22.434 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/workspaces.sh: syntax error
+[Warn  - 5:56:43 PM] 21:56:43.325 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/workspaces-move.sh: syntax error
+[Warn  - 5:56:46 PM] 21:56:46.439 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/workspaces-move.sh: syntax error
+[Warn  - 5:56:46 PM] 21:56:46.554 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/workspaces-move.sh: syntax error
+[Warn  - 5:56:47 PM] 21:56:47.251 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/workspaces-move.sh: syntax error
+[Warn  - 5:56:55 PM] 21:56:55.083 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/workspaces.sh: syntax error
+[Warn  - 6:02:56 PM] 22:02:56.991 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:02:58 PM] 22:02:58.853 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:03:04 PM] 22:03:04.405 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:03:05 PM] 22:03:05.543 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:03:06 PM] 22:03:06.343 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:03:07 PM] 22:03:07.816 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:03:17 PM] 22:03:17.104 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:03:20 PM] 22:03:20.427 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:03:22 PM] 22:03:22.200 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:03:28 PM] 22:03:28.382 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:03:56 PM] 22:03:56.529 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:03:57 PM] 22:03:57.957 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:04:00 PM] 22:04:00.173 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:04:00 PM] 22:04:00.738 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:04:01 PM] 22:04:01.159 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:04:21 PM] 22:04:21.775 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:04:23 PM] 22:04:23.160 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:04:23 PM] 22:04:23.437 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:04:25 PM] 22:04:25.307 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:04:26 PM] 22:04:26.586 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:04:28 PM] 22:04:28.100 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:04:30 PM] 22:04:30.373 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:04:34 PM] 22:04:34.826 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:04:51 PM] 22:04:51.169 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:04:56 PM] 22:04:56.327 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:04:57 PM] 22:04:57.287 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:04:57 PM] 22:04:57.496 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:05:52 PM] 22:05:52.948 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:05:53 PM] 22:05:53.929 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:07:24 PM] 22:07:24.062 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:07:25 PM] 22:07:25.066 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:07:25 PM] 22:07:25.790 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:07:26 PM] 22:07:26.120 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:07:27 PM] 22:07:27.014 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:07:27 PM] 22:07:27.366 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:07:27 PM] 22:07:27.737 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:07:30 PM] 22:07:30.554 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:07:31 PM] 22:07:31.159 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:07:35 PM] 22:07:35.618 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:07:35 PM] 22:07:35.718 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:07:36 PM] 22:07:36.622 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:07:37 PM] 22:07:37.656 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:07:38 PM] 22:07:38.240 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:07:39 PM] 22:07:39.534 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:07:39 PM] 22:07:39.634 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:07:40 PM] 22:07:40.035 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:07:41 PM] 22:07:41.915 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:07:43 PM] 22:07:43.765 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:07:54 PM] 22:07:54.158 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:07:54 PM] 22:07:54.617 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:07:55 PM] 22:07:55.843 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:07:56 PM] 22:07:56.570 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:07:56 PM] 22:07:56.671 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:07:59 PM] 22:07:59.269 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:07:59 PM] 22:07:59.369 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:08:00 PM] 22:08:00.269 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:08:00 PM] 22:08:00.552 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:08:06 PM] 22:08:06.857 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:08:08 PM] 22:08:08.526 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:08:23 PM] 22:08:23.395 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:08:23 PM] 22:08:23.845 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:08:26 PM] 22:08:26.059 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:08:26 PM] 22:08:26.644 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:08:27 PM] 22:08:27.763 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:08:43 PM] 22:08:43.556 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:08:48 PM] 22:08:48.588 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:08:49 PM] 22:08:49.103 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:08:50 PM] 22:08:50.299 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:08:55 PM] 22:08:55.363 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:08:55 PM] 22:08:55.995 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:08:57 PM] 22:08:57.641 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:08:58 PM] 22:08:58.240 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:08:59 PM] 22:08:59.043 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:09:00 PM] 22:09:00.660 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:09:06 PM] 22:09:06.962 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:09:12 PM] 22:09:12.277 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:09:22 PM] 22:09:22.934 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:09:23 PM] 22:09:23.020 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:09:23 PM] 22:09:23.932 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:09:24 PM] 22:09:24.025 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:09:24 PM] 22:09:24.811 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:09:25 PM] 22:09:25.816 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:09:27 PM] 22:09:27.064 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:20:34 PM] 22:20:34.898 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:20:34 PM] 22:20:34.966 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:20:35 PM] 22:20:35.138 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:21:48 PM] 22:21:48.787 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:21:49 PM] 22:21:49.863 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:21:51 PM] 22:21:51.150 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:21:51 PM] 22:21:51.421 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:21:52 PM] 22:21:52.228 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:21:53 PM] 22:21:53.489 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:22:29 PM] 22:22:29.272 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:22:33 PM] 22:22:33.650 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:22:34 PM] 22:22:34.099 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:22:34 PM] 22:22:34.381 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:22:34 PM] 22:22:34.576 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:22:34 PM] 22:22:34.928 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:22:35 PM] 22:22:35.232 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:22:36 PM] 22:22:36.646 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:22:37 PM] 22:22:37.109 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:22:38 PM] 22:22:38.113 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:22:38 PM] 22:22:38.763 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:22:39 PM] 22:22:39.174 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:22:40 PM] 22:22:40.949 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:22:41 PM] 22:22:41.049 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:22:42 PM] 22:22:42.122 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:22:43 PM] 22:22:43.999 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:22:45 PM] 22:22:45.136 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:22:45 PM] 22:22:45.498 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:22:45 PM] 22:22:45.896 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:22:49 PM] 22:22:49.189 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:22:50 PM] 22:22:50.934 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:22:51 PM] 22:22:51.415 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:22:51 PM] 22:22:51.525 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:22:51 PM] 22:22:51.532 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:22:51 PM] 22:22:51.798 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:22:52 PM] 22:22:52.229 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:22:52 PM] 22:22:52.629 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:22:53 PM] 22:22:53.166 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:22:53 PM] 22:22:53.268 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:22:53 PM] 22:22:53.972 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:22:54 PM] 22:22:54.216 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:22:54 PM] 22:22:54.286 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:22:54 PM] 22:22:54.510 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:23:58 PM] 22:23:58.341 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:23:58 PM] 22:23:58.441 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:24:23 PM] 22:24:23.351 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:24:44 PM] 22:24:44.255 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:25:25 PM] 22:25:25.444 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:27:06 PM] 22:27:06.495 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:29:02 PM] 22:29:02.886 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:29:03 PM] 22:29:03.501 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:29:06 PM] 22:29:06.114 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:29:08 PM] 22:29:08.233 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:29:09 PM] 22:29:09.820 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:29:10 PM] 22:29:10.173 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:29:10 PM] 22:29:10.504 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:29:10 PM] 22:29:10.947 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:29:10 PM] 22:29:10.992 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:29:11 PM] 22:29:11.349 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:29:11 PM] 22:29:11.698 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:29:12 PM] 22:29:12.350 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:29:12 PM] 22:29:12.733 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:29:12 PM] 22:29:12.929 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:29:13 PM] 22:29:13.167 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:29:13 PM] 22:29:13.567 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:29:14 PM] 22:29:14.491 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:29:15 PM] 22:29:15.312 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:29:15 PM] 22:29:15.605 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:29:16 PM] 22:29:16.243 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:29:18 PM] 22:29:18.881 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:29:19 PM] 22:29:19.231 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:29:19 PM] 22:29:19.880 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:29:20 PM] 22:29:20.891 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:29:22 PM] 22:29:22.384 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:29:24 PM] 22:29:24.125 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:29:30 PM] 22:29:30.503 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:29:30 PM] 22:29:30.722 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:29:30 PM] 22:29:30.808 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:29:31 PM] 22:29:31.419 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:29:31 PM] 22:29:31.776 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:29:32 PM] 22:29:32.417 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:29:32 PM] 22:29:32.459 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:29:32 PM] 22:29:32.538 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:29:32 PM] 22:29:32.752 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:29:33 PM] 22:29:33.140 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:29:33 PM] 22:29:33.385 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:29:33 PM] 22:29:33.541 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:29:33 PM] 22:29:33.875 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:29:34 PM] 22:29:34.285 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:29:35 PM] 22:29:35.472 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:29:35 PM] 22:29:35.909 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:29:36 PM] 22:29:36.010 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:29:36 PM] 22:29:36.698 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:29:37 PM] 22:29:37.489 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:29:37 PM] 22:29:37.596 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:29:37 PM] 22:29:37.968 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:29:38 PM] 22:29:38.348 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:29:38 PM] 22:29:38.948 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:29:39 PM] 22:29:39.551 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:29:40 PM] 22:29:40.310 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:29:41 PM] 22:29:41.024 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:29:41 PM] 22:29:41.124 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:29:42 PM] 22:29:42.383 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:29:44 PM] 22:29:44.181 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:29:48 PM] 22:29:48.302 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:29:50 PM] 22:29:50.104 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:29:52 PM] 22:29:52.153 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:29:52 PM] 22:29:52.870 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:29:54 PM] 22:29:54.204 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:29:56 PM] 22:29:56.113 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:29:56 PM] 22:29:56.438 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:29:56 PM] 22:29:56.512 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:29:57 PM] 22:29:57.300 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:29:57 PM] 22:29:57.459 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:29:58 PM] 22:29:58.383 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:30:06 PM] 22:30:06.301 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:30:06 PM] 22:30:06.472 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:30:07 PM] 22:30:07.606 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:30:08 PM] 22:30:08.083 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:30:08 PM] 22:30:08.136 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:30:08 PM] 22:30:08.323 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:30:08 PM] 22:30:08.443 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:30:08 PM] 22:30:08.557 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:30:08 PM] 22:30:08.778 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:30:08 PM] 22:30:08.815 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:30:09 PM] 22:30:09.344 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:30:09 PM] 22:30:09.444 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:30:10 PM] 22:30:10.923 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:30:17 PM] 22:30:17.025 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:30:17 PM] 22:30:17.120 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:30:17 PM] 22:30:17.330 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:30:17 PM] 22:30:17.461 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:30:17 PM] 22:30:17.590 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:30:17 PM] 22:30:17.778 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:30:17 PM] 22:30:17.841 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:30:18 PM] 22:30:18.540 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:30:20 PM] 22:30:20.397 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:30:22 PM] 22:30:22.222 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:30:23 PM] 22:30:23.723 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:31:49 PM] 22:31:49.423 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:31:49 PM] 22:31:49.488 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:31:49 PM] 22:31:49.853 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:31:50 PM] 22:31:50.873 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:31:51 PM] 22:31:51.582 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:32:15 PM] 22:32:15.455 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:32:15 PM] 22:32:15.918 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:32:16 PM] 22:32:16.239 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:32:17 PM] 22:32:17.746 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:32:17 PM] 22:32:17.844 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:32:18 PM] 22:32:18.684 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:32:19 PM] 22:32:19.345 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:32:20 PM] 22:32:20.317 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:32:20 PM] 22:32:20.666 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:32:22 PM] 22:32:22.898 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:32:23 PM] 22:32:23.961 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:32:24 PM] 22:32:24.449 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:32:26 PM] 22:32:26.672 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:32:28 PM] 22:32:28.568 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:32:28 PM] 22:32:28.657 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:32:28 PM] 22:32:28.662 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:32:29 PM] 22:32:29.010 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:32:29 PM] 22:32:29.718 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:32:35 PM] 22:32:35.138 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:32:35 PM] 22:32:35.402 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:32:43 PM] 22:32:43.054 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:32:43 PM] 22:32:43.177 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:32:43 PM] 22:32:43.543 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:32:43 PM] 22:32:43.898 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:32:44 PM] 22:32:44.298 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:32:44 PM] 22:32:44.761 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:32:45 PM] 22:32:45.481 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:32:53 PM] 22:32:53.866 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:32:55 PM] 22:32:55.442 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:32:56 PM] 22:32:56.307 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:32:57 PM] 22:32:57.727 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:32:59 PM] 22:32:59.267 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:33:06 PM] 22:33:06.335 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:33:06 PM] 22:33:06.864 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:33:07 PM] 22:33:07.328 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:33:07 PM] 22:33:07.947 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:33:08 PM] 22:33:08.176 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:33:08 PM] 22:33:08.231 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:33:08 PM] 22:33:08.412 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:33:08 PM] 22:33:08.562 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:33:08 PM] 22:33:08.724 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:33:08 PM] 22:33:08.952 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:33:09 PM] 22:33:09.019 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:33:09 PM] 22:33:09.443 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:33:09 PM] 22:33:09.741 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:33:09 PM] 22:33:09.841 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:33:10 PM] 22:33:10.457 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:33:11 PM] 22:33:11.442 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:33:11 PM] 22:33:11.544 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:33:11 PM] 22:33:11.863 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:33:12 PM] 22:33:12.212 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:33:13 PM] 22:33:13.866 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:33:13 PM] 22:33:13.969 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:33:14 PM] 22:33:14.646 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:33:14 PM] 22:33:14.751 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:33:14 PM] 22:33:14.852 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:33:15 PM] 22:33:15.277 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:33:15 PM] 22:33:15.399 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:33:18 PM] 22:33:18.542 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:33:19 PM] 22:33:19.216 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:33:21 PM] 22:33:21.301 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:33:21 PM] 22:33:21.685 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:33:24 PM] 22:33:24.222 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:33:30 PM] 22:33:30.460 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:33:31 PM] 22:33:31.018 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:33:31 PM] 22:33:31.559 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:33:32 PM] 22:33:32.561 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:33:33 PM] 22:33:33.289 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:33:34 PM] 22:33:34.586 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:33:37 PM] 22:33:37.710 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:33:40 PM] 22:33:40.552 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:33:41 PM] 22:33:41.027 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:33:52 PM] 22:33:52.938 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:33:53 PM] 22:33:53.503 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:33:53 PM] 22:33:53.633 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:33:53 PM] 22:33:53.753 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:33:54 PM] 22:33:54.184 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:33:55 PM] 22:33:55.587 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:33:56 PM] 22:33:56.956 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:33:57 PM] 22:33:57.037 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:33:57 PM] 22:33:57.177 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:33:58 PM] 22:33:58.028 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:33:58 PM] 22:33:58.126 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:33:58 PM] 22:33:58.698 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:33:58 PM] 22:33:58.743 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:33:58 PM] 22:33:58.886 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:33:59 PM] 22:33:59.024 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:33:59 PM] 22:33:59.111 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:34:00 PM] 22:34:00.119 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:34:00 PM] 22:34:00.888 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:34:01 PM] 22:34:01.428 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:34:02 PM] 22:34:02.145 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:34:02 PM] 22:34:02.245 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:34:03 PM] 22:34:03.057 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:34:05 PM] 22:34:05.514 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:34:06 PM] 22:34:06.870 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:34:06 PM] 22:34:06.994 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:34:08 PM] 22:34:08.116 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:34:08 PM] 22:34:08.765 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:34:16 PM] 22:34:16.176 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:34:16 PM] 22:34:16.372 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:34:17 PM] 22:34:17.354 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:34:17 PM] 22:34:17.830 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:34:20 PM] 22:34:20.205 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:34:20 PM] 22:34:20.890 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:34:21 PM] 22:34:21.133 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:34:21 PM] 22:34:21.433 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:34:21 PM] 22:34:21.880 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:34:22 PM] 22:34:22.820 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:34:23 PM] 22:34:23.315 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:34:25 PM] 22:34:25.676 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:34:26 PM] 22:34:26.788 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:34:27 PM] 22:34:27.795 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:34:27 PM] 22:34:27.968 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:34:28 PM] 22:34:28.258 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:35:34 PM] 22:35:34.921 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:35:35 PM] 22:35:35.746 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:35:36 PM] 22:35:36.608 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:35:36 PM] 22:35:36.708 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:35:37 PM] 22:35:37.563 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:35:38 PM] 22:35:38.325 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:35:40 PM] 22:35:40.605 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:35:42 PM] 22:35:42.292 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:35:42 PM] 22:35:42.642 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Error - 6:35:42 PM] Unhandled Rejection at promise: [object Promise], reason: TypeError: Cannot read properties of undefined (reading 'apply')
+    at e.<computed> (/home/cj/.vscode-oss/extensions/mads-hartmann.bash-ide-vscode-1.38.0-universal/node_modules/web-tree-sitter/tree-sitter.js:1:16465)
+    at wasm://wasm/001ec906:wasm-function[21]:0x1ccf
+    at e.<computed> (/home/cj/.vscode-oss/extensions/mads-hartmann.bash-ide-vscode-1.38.0-universal/node_modules/web-tree-sitter/tree-sitter.js:1:16465)
+    at wasm://wasm/001ec906:wasm-function[19]:0x17aa
+    at wasm://wasm/000b627a:wasm-function[234]:0x25842
+    at Parser.parse (/home/cj/.vscode-oss/extensions/mads-hartmann.bash-ide-vscode-1.38.0-universal/node_modules/web-tree-sitter/tree-sitter.js:1:53325)
+    at Analyzer.analyze (/home/cj/.vscode-oss/extensions/mads-hartmann.bash-ide-vscode-1.38.0-universal/node_modules/bash-language-server/out/analyser.js:47:34)
+    at BashServer.<anonymous> (/home/cj/.vscode-oss/extensions/mads-hartmann.bash-ide-vscode-1.38.0-universal/node_modules/bash-language-server/out/server.js:241:45)
+    at Generator.next (<anonymous>)
+    at /home/cj/.vscode-oss/extensions/mads-hartmann.bash-ide-vscode-1.38.0-universal/node_modules/bash-language-server/out/server.js:8:71
+[Error - 6:35:43 PM] Unhandled Rejection at promise: [object Promise], reason: TypeError: Cannot read properties of undefined (reading 'apply')
+    at e.<computed> (/home/cj/.vscode-oss/extensions/mads-hartmann.bash-ide-vscode-1.38.0-universal/node_modules/web-tree-sitter/tree-sitter.js:1:16465)
+    at wasm://wasm/001ec906:wasm-function[21]:0x1ccf
+    at e.<computed> (/home/cj/.vscode-oss/extensions/mads-hartmann.bash-ide-vscode-1.38.0-universal/node_modules/web-tree-sitter/tree-sitter.js:1:16465)
+    at wasm://wasm/001ec906:wasm-function[19]:0x17aa
+    at wasm://wasm/000b627a:wasm-function[234]:0x25842
+    at Parser.parse (/home/cj/.vscode-oss/extensions/mads-hartmann.bash-ide-vscode-1.38.0-universal/node_modules/web-tree-sitter/tree-sitter.js:1:53325)
+    at Analyzer.analyze (/home/cj/.vscode-oss/extensions/mads-hartmann.bash-ide-vscode-1.38.0-universal/node_modules/bash-language-server/out/analyser.js:47:34)
+    at BashServer.<anonymous> (/home/cj/.vscode-oss/extensions/mads-hartmann.bash-ide-vscode-1.38.0-universal/node_modules/bash-language-server/out/server.js:241:45)
+    at Generator.next (<anonymous>)
+    at /home/cj/.vscode-oss/extensions/mads-hartmann.bash-ide-vscode-1.38.0-universal/node_modules/bash-language-server/out/server.js:8:71
+[Error - 6:35:48 PM] Unhandled Rejection at promise: [object Promise], reason: TypeError: Cannot read properties of undefined (reading 'apply')
+    at e.<computed> (/home/cj/.vscode-oss/extensions/mads-hartmann.bash-ide-vscode-1.38.0-universal/node_modules/web-tree-sitter/tree-sitter.js:1:16465)
+    at wasm://wasm/001ec906:wasm-function[21]:0x1ccf
+    at e.<computed> (/home/cj/.vscode-oss/extensions/mads-hartmann.bash-ide-vscode-1.38.0-universal/node_modules/web-tree-sitter/tree-sitter.js:1:16465)
+    at wasm://wasm/001ec906:wasm-function[19]:0x17aa
+    at wasm://wasm/000b627a:wasm-function[234]:0x25842
+    at Parser.parse (/home/cj/.vscode-oss/extensions/mads-hartmann.bash-ide-vscode-1.38.0-universal/node_modules/web-tree-sitter/tree-sitter.js:1:53325)
+    at Analyzer.analyze (/home/cj/.vscode-oss/extensions/mads-hartmann.bash-ide-vscode-1.38.0-universal/node_modules/bash-language-server/out/analyser.js:47:34)
+    at BashServer.<anonymous> (/home/cj/.vscode-oss/extensions/mads-hartmann.bash-ide-vscode-1.38.0-universal/node_modules/bash-language-server/out/server.js:241:45)
+    at Generator.next (<anonymous>)
+    at /home/cj/.vscode-oss/extensions/mads-hartmann.bash-ide-vscode-1.38.0-universal/node_modules/bash-language-server/out/server.js:8:71
+[Error - 6:35:50 PM] Unhandled Rejection at promise: [object Promise], reason: TypeError: Cannot read properties of undefined (reading 'apply')
+    at e.<computed> (/home/cj/.vscode-oss/extensions/mads-hartmann.bash-ide-vscode-1.38.0-universal/node_modules/web-tree-sitter/tree-sitter.js:1:16465)
+    at wasm://wasm/001ec906:wasm-function[21]:0x1ccf
+    at e.<computed> (/home/cj/.vscode-oss/extensions/mads-hartmann.bash-ide-vscode-1.38.0-universal/node_modules/web-tree-sitter/tree-sitter.js:1:16465)
+    at wasm://wasm/001ec906:wasm-function[19]:0x17aa
+    at wasm://wasm/000b627a:wasm-function[234]:0x25842
+    at Parser.parse (/home/cj/.vscode-oss/extensions/mads-hartmann.bash-ide-vscode-1.38.0-universal/node_modules/web-tree-sitter/tree-sitter.js:1:53325)
+    at Analyzer.analyze (/home/cj/.vscode-oss/extensions/mads-hartmann.bash-ide-vscode-1.38.0-universal/node_modules/bash-language-server/out/analyser.js:47:34)
+    at BashServer.<anonymous> (/home/cj/.vscode-oss/extensions/mads-hartmann.bash-ide-vscode-1.38.0-universal/node_modules/bash-language-server/out/server.js:241:45)
+    at Generator.next (<anonymous>)
+    at /home/cj/.vscode-oss/extensions/mads-hartmann.bash-ide-vscode-1.38.0-universal/node_modules/bash-language-server/out/server.js:8:71
+[Error - 6:35:50 PM] Unhandled Rejection at promise: [object Promise], reason: TypeError: Cannot read properties of undefined (reading 'apply')
+    at e.<computed> (/home/cj/.vscode-oss/extensions/mads-hartmann.bash-ide-vscode-1.38.0-universal/node_modules/web-tree-sitter/tree-sitter.js:1:16465)
+    at wasm://wasm/001ec906:wasm-function[21]:0x1ccf
+    at e.<computed> (/home/cj/.vscode-oss/extensions/mads-hartmann.bash-ide-vscode-1.38.0-universal/node_modules/web-tree-sitter/tree-sitter.js:1:16465)
+    at wasm://wasm/001ec906:wasm-function[19]:0x17aa
+    at wasm://wasm/000b627a:wasm-function[234]:0x25842
+    at Parser.parse (/home/cj/.vscode-oss/extensions/mads-hartmann.bash-ide-vscode-1.38.0-universal/node_modules/web-tree-sitter/tree-sitter.js:1:53325)
+    at Analyzer.analyze (/home/cj/.vscode-oss/extensions/mads-hartmann.bash-ide-vscode-1.38.0-universal/node_modules/bash-language-server/out/analyser.js:47:34)
+    at BashServer.<anonymous> (/home/cj/.vscode-oss/extensions/mads-hartmann.bash-ide-vscode-1.38.0-universal/node_modules/bash-language-server/out/server.js:241:45)
+    at Generator.next (<anonymous>)
+    at /home/cj/.vscode-oss/extensions/mads-hartmann.bash-ide-vscode-1.38.0-universal/node_modules/bash-language-server/out/server.js:8:71
+[Error - 6:35:50 PM] Unhandled Rejection at promise: [object Promise], reason: TypeError: Cannot read properties of undefined (reading 'apply')
+    at e.<computed> (/home/cj/.vscode-oss/extensions/mads-hartmann.bash-ide-vscode-1.38.0-universal/node_modules/web-tree-sitter/tree-sitter.js:1:16465)
+    at wasm://wasm/001ec906:wasm-function[21]:0x1ccf
+    at e.<computed> (/home/cj/.vscode-oss/extensions/mads-hartmann.bash-ide-vscode-1.38.0-universal/node_modules/web-tree-sitter/tree-sitter.js:1:16465)
+    at wasm://wasm/001ec906:wasm-function[19]:0x17aa
+    at wasm://wasm/000b627a:wasm-function[234]:0x25842
+    at Parser.parse (/home/cj/.vscode-oss/extensions/mads-hartmann.bash-ide-vscode-1.38.0-universal/node_modules/web-tree-sitter/tree-sitter.js:1:53325)
+    at Analyzer.analyze (/home/cj/.vscode-oss/extensions/mads-hartmann.bash-ide-vscode-1.38.0-universal/node_modules/bash-language-server/out/analyser.js:47:34)
+    at BashServer.<anonymous> (/home/cj/.vscode-oss/extensions/mads-hartmann.bash-ide-vscode-1.38.0-universal/node_modules/bash-language-server/out/server.js:241:45)
+    at Generator.next (<anonymous>)
+    at /home/cj/.vscode-oss/extensions/mads-hartmann.bash-ide-vscode-1.38.0-universal/node_modules/bash-language-server/out/server.js:8:71
+[Error - 6:35:52 PM] Unhandled Rejection at promise: [object Promise], reason: TypeError: Cannot read properties of undefined (reading 'apply')
+    at e.<computed> (/home/cj/.vscode-oss/extensions/mads-hartmann.bash-ide-vscode-1.38.0-universal/node_modules/web-tree-sitter/tree-sitter.js:1:16465)
+    at wasm://wasm/001ec906:wasm-function[21]:0x1ccf
+    at e.<computed> (/home/cj/.vscode-oss/extensions/mads-hartmann.bash-ide-vscode-1.38.0-universal/node_modules/web-tree-sitter/tree-sitter.js:1:16465)
+    at wasm://wasm/001ec906:wasm-function[19]:0x17aa
+    at wasm://wasm/000b627a:wasm-function[234]:0x25842
+    at Parser.parse (/home/cj/.vscode-oss/extensions/mads-hartmann.bash-ide-vscode-1.38.0-universal/node_modules/web-tree-sitter/tree-sitter.js:1:53325)
+    at Analyzer.analyze (/home/cj/.vscode-oss/extensions/mads-hartmann.bash-ide-vscode-1.38.0-universal/node_modules/bash-language-server/out/analyser.js:47:34)
+    at BashServer.<anonymous> (/home/cj/.vscode-oss/extensions/mads-hartmann.bash-ide-vscode-1.38.0-universal/node_modules/bash-language-server/out/server.js:241:45)
+    at Generator.next (<anonymous>)
+    at /home/cj/.vscode-oss/extensions/mads-hartmann.bash-ide-vscode-1.38.0-universal/node_modules/bash-language-server/out/server.js:8:71
+[Error - 6:35:55 PM] Unhandled Rejection at promise: [object Promise], reason: TypeError: Cannot read properties of undefined (reading 'apply')
+    at e.<computed> (/home/cj/.vscode-oss/extensions/mads-hartmann.bash-ide-vscode-1.38.0-universal/node_modules/web-tree-sitter/tree-sitter.js:1:16465)
+    at wasm://wasm/001ec906:wasm-function[21]:0x1ccf
+    at e.<computed> (/home/cj/.vscode-oss/extensions/mads-hartmann.bash-ide-vscode-1.38.0-universal/node_modules/web-tree-sitter/tree-sitter.js:1:16465)
+    at wasm://wasm/001ec906:wasm-function[19]:0x17aa
+    at wasm://wasm/000b627a:wasm-function[234]:0x25842
+    at Parser.parse (/home/cj/.vscode-oss/extensions/mads-hartmann.bash-ide-vscode-1.38.0-universal/node_modules/web-tree-sitter/tree-sitter.js:1:53325)
+    at Analyzer.analyze (/home/cj/.vscode-oss/extensions/mads-hartmann.bash-ide-vscode-1.38.0-universal/node_modules/bash-language-server/out/analyser.js:47:34)
+    at BashServer.<anonymous> (/home/cj/.vscode-oss/extensions/mads-hartmann.bash-ide-vscode-1.38.0-universal/node_modules/bash-language-server/out/server.js:241:45)
+    at Generator.next (<anonymous>)
+    at /home/cj/.vscode-oss/extensions/mads-hartmann.bash-ide-vscode-1.38.0-universal/node_modules/bash-language-server/out/server.js:8:71
+[Error - 6:35:55 PM] Unhandled Rejection at promise: [object Promise], reason: TypeError: Cannot read properties of undefined (reading 'apply')
+    at e.<computed> (/home/cj/.vscode-oss/extensions/mads-hartmann.bash-ide-vscode-1.38.0-universal/node_modules/web-tree-sitter/tree-sitter.js:1:16465)
+    at wasm://wasm/001ec906:wasm-function[21]:0x1ccf
+    at e.<computed> (/home/cj/.vscode-oss/extensions/mads-hartmann.bash-ide-vscode-1.38.0-universal/node_modules/web-tree-sitter/tree-sitter.js:1:16465)
+    at wasm://wasm/001ec906:wasm-function[19]:0x17aa
+    at wasm://wasm/000b627a:wasm-function[234]:0x25842
+    at Parser.parse (/home/cj/.vscode-oss/extensions/mads-hartmann.bash-ide-vscode-1.38.0-universal/node_modules/web-tree-sitter/tree-sitter.js:1:53325)
+    at Analyzer.analyze (/home/cj/.vscode-oss/extensions/mads-hartmann.bash-ide-vscode-1.38.0-universal/node_modules/bash-language-server/out/analyser.js:47:34)
+    at BashServer.<anonymous> (/home/cj/.vscode-oss/extensions/mads-hartmann.bash-ide-vscode-1.38.0-universal/node_modules/bash-language-server/out/server.js:241:45)
+    at Generator.next (<anonymous>)
+    at /home/cj/.vscode-oss/extensions/mads-hartmann.bash-ide-vscode-1.38.0-universal/node_modules/bash-language-server/out/server.js:8:71
+[Error - 6:35:56 PM] Unhandled Rejection at promise: [object Promise], reason: TypeError: Cannot read properties of undefined (reading 'apply')
+    at e.<computed> (/home/cj/.vscode-oss/extensions/mads-hartmann.bash-ide-vscode-1.38.0-universal/node_modules/web-tree-sitter/tree-sitter.js:1:16465)
+    at wasm://wasm/001ec906:wasm-function[21]:0x1ccf
+    at e.<computed> (/home/cj/.vscode-oss/extensions/mads-hartmann.bash-ide-vscode-1.38.0-universal/node_modules/web-tree-sitter/tree-sitter.js:1:16465)
+    at wasm://wasm/001ec906:wasm-function[19]:0x17aa
+    at wasm://wasm/000b627a:wasm-function[234]:0x25842
+    at Parser.parse (/home/cj/.vscode-oss/extensions/mads-hartmann.bash-ide-vscode-1.38.0-universal/node_modules/web-tree-sitter/tree-sitter.js:1:53325)
+    at Analyzer.analyze (/home/cj/.vscode-oss/extensions/mads-hartmann.bash-ide-vscode-1.38.0-universal/node_modules/bash-language-server/out/analyser.js:47:34)
+    at BashServer.<anonymous> (/home/cj/.vscode-oss/extensions/mads-hartmann.bash-ide-vscode-1.38.0-universal/node_modules/bash-language-server/out/server.js:241:45)
+    at Generator.next (<anonymous>)
+    at /home/cj/.vscode-oss/extensions/mads-hartmann.bash-ide-vscode-1.38.0-universal/node_modules/bash-language-server/out/server.js:8:71
+[Error - 6:35:57 PM] Unhandled Rejection at promise: [object Promise], reason: TypeError: Cannot read properties of undefined (reading 'apply')
+    at e.<computed> (/home/cj/.vscode-oss/extensions/mads-hartmann.bash-ide-vscode-1.38.0-universal/node_modules/web-tree-sitter/tree-sitter.js:1:16465)
+    at wasm://wasm/001ec906:wasm-function[21]:0x1ccf
+    at e.<computed> (/home/cj/.vscode-oss/extensions/mads-hartmann.bash-ide-vscode-1.38.0-universal/node_modules/web-tree-sitter/tree-sitter.js:1:16465)
+    at wasm://wasm/001ec906:wasm-function[19]:0x17aa
+    at wasm://wasm/000b627a:wasm-function[234]:0x25842
+    at Parser.parse (/home/cj/.vscode-oss/extensions/mads-hartmann.bash-ide-vscode-1.38.0-universal/node_modules/web-tree-sitter/tree-sitter.js:1:53325)
+    at Analyzer.analyze (/home/cj/.vscode-oss/extensions/mads-hartmann.bash-ide-vscode-1.38.0-universal/node_modules/bash-language-server/out/analyser.js:47:34)
+    at BashServer.<anonymous> (/home/cj/.vscode-oss/extensions/mads-hartmann.bash-ide-vscode-1.38.0-universal/node_modules/bash-language-server/out/server.js:241:45)
+    at Generator.next (<anonymous>)
+    at /home/cj/.vscode-oss/extensions/mads-hartmann.bash-ide-vscode-1.38.0-universal/node_modules/bash-language-server/out/server.js:8:71
+[Error - 6:35:57 PM] Unhandled Rejection at promise: [object Promise], reason: TypeError: Cannot read properties of undefined (reading 'apply')
+    at e.<computed> (/home/cj/.vscode-oss/extensions/mads-hartmann.bash-ide-vscode-1.38.0-universal/node_modules/web-tree-sitter/tree-sitter.js:1:16465)
+    at wasm://wasm/001ec906:wasm-function[21]:0x1ccf
+    at e.<computed> (/home/cj/.vscode-oss/extensions/mads-hartmann.bash-ide-vscode-1.38.0-universal/node_modules/web-tree-sitter/tree-sitter.js:1:16465)
+    at wasm://wasm/001ec906:wasm-function[19]:0x17aa
+    at wasm://wasm/000b627a:wasm-function[234]:0x25842
+    at Parser.parse (/home/cj/.vscode-oss/extensions/mads-hartmann.bash-ide-vscode-1.38.0-universal/node_modules/web-tree-sitter/tree-sitter.js:1:53325)
+    at Analyzer.analyze (/home/cj/.vscode-oss/extensions/mads-hartmann.bash-ide-vscode-1.38.0-universal/node_modules/bash-language-server/out/analyser.js:47:34)
+    at BashServer.<anonymous> (/home/cj/.vscode-oss/extensions/mads-hartmann.bash-ide-vscode-1.38.0-universal/node_modules/bash-language-server/out/server.js:241:45)
+    at Generator.next (<anonymous>)
+    at /home/cj/.vscode-oss/extensions/mads-hartmann.bash-ide-vscode-1.38.0-universal/node_modules/bash-language-server/out/server.js:8:71
+[Error - 6:35:57 PM] Unhandled Rejection at promise: [object Promise], reason: TypeError: Cannot read properties of undefined (reading 'apply')
+    at e.<computed> (/home/cj/.vscode-oss/extensions/mads-hartmann.bash-ide-vscode-1.38.0-universal/node_modules/web-tree-sitter/tree-sitter.js:1:16465)
+    at wasm://wasm/001ec906:wasm-function[21]:0x1ccf
+    at e.<computed> (/home/cj/.vscode-oss/extensions/mads-hartmann.bash-ide-vscode-1.38.0-universal/node_modules/web-tree-sitter/tree-sitter.js:1:16465)
+    at wasm://wasm/001ec906:wasm-function[19]:0x17aa
+    at wasm://wasm/000b627a:wasm-function[234]:0x25842
+    at Parser.parse (/home/cj/.vscode-oss/extensions/mads-hartmann.bash-ide-vscode-1.38.0-universal/node_modules/web-tree-sitter/tree-sitter.js:1:53325)
+    at Analyzer.analyze (/home/cj/.vscode-oss/extensions/mads-hartmann.bash-ide-vscode-1.38.0-universal/node_modules/bash-language-server/out/analyser.js:47:34)
+    at BashServer.<anonymous> (/home/cj/.vscode-oss/extensions/mads-hartmann.bash-ide-vscode-1.38.0-universal/node_modules/bash-language-server/out/server.js:241:45)
+    at Generator.next (<anonymous>)
+    at /home/cj/.vscode-oss/extensions/mads-hartmann.bash-ide-vscode-1.38.0-universal/node_modules/bash-language-server/out/server.js:8:71
+[Error - 6:35:57 PM] Unhandled Rejection at promise: [object Promise], reason: TypeError: Cannot read properties of undefined (reading 'apply')
+    at e.<computed> (/home/cj/.vscode-oss/extensions/mads-hartmann.bash-ide-vscode-1.38.0-universal/node_modules/web-tree-sitter/tree-sitter.js:1:16465)
+    at wasm://wasm/001ec906:wasm-function[21]:0x1ccf
+    at e.<computed> (/home/cj/.vscode-oss/extensions/mads-hartmann.bash-ide-vscode-1.38.0-universal/node_modules/web-tree-sitter/tree-sitter.js:1:16465)
+    at wasm://wasm/001ec906:wasm-function[19]:0x17aa
+    at wasm://wasm/000b627a:wasm-function[234]:0x25842
+    at Parser.parse (/home/cj/.vscode-oss/extensions/mads-hartmann.bash-ide-vscode-1.38.0-universal/node_modules/web-tree-sitter/tree-sitter.js:1:53325)
+    at Analyzer.analyze (/home/cj/.vscode-oss/extensions/mads-hartmann.bash-ide-vscode-1.38.0-universal/node_modules/bash-language-server/out/analyser.js:47:34)
+    at BashServer.<anonymous> (/home/cj/.vscode-oss/extensions/mads-hartmann.bash-ide-vscode-1.38.0-universal/node_modules/bash-language-server/out/server.js:241:45)
+    at Generator.next (<anonymous>)
+    at /home/cj/.vscode-oss/extensions/mads-hartmann.bash-ide-vscode-1.38.0-universal/node_modules/bash-language-server/out/server.js:8:71
+[Error - 6:35:57 PM] Unhandled Rejection at promise: [object Promise], reason: TypeError: Cannot read properties of undefined (reading 'apply')
+    at e.<computed> (/home/cj/.vscode-oss/extensions/mads-hartmann.bash-ide-vscode-1.38.0-universal/node_modules/web-tree-sitter/tree-sitter.js:1:16465)
+    at wasm://wasm/001ec906:wasm-function[21]:0x1ccf
+    at e.<computed> (/home/cj/.vscode-oss/extensions/mads-hartmann.bash-ide-vscode-1.38.0-universal/node_modules/web-tree-sitter/tree-sitter.js:1:16465)
+    at wasm://wasm/001ec906:wasm-function[19]:0x17aa
+    at wasm://wasm/000b627a:wasm-function[234]:0x25842
+    at Parser.parse (/home/cj/.vscode-oss/extensions/mads-hartmann.bash-ide-vscode-1.38.0-universal/node_modules/web-tree-sitter/tree-sitter.js:1:53325)
+    at Analyzer.analyze (/home/cj/.vscode-oss/extensions/mads-hartmann.bash-ide-vscode-1.38.0-universal/node_modules/bash-language-server/out/analyser.js:47:34)
+    at BashServer.<anonymous> (/home/cj/.vscode-oss/extensions/mads-hartmann.bash-ide-vscode-1.38.0-universal/node_modules/bash-language-server/out/server.js:241:45)
+    at Generator.next (<anonymous>)
+    at /home/cj/.vscode-oss/extensions/mads-hartmann.bash-ide-vscode-1.38.0-universal/node_modules/bash-language-server/out/server.js:8:71
+[Error - 6:35:58 PM] Unhandled Rejection at promise: [object Promise], reason: TypeError: Cannot read properties of undefined (reading 'apply')
+    at e.<computed> (/home/cj/.vscode-oss/extensions/mads-hartmann.bash-ide-vscode-1.38.0-universal/node_modules/web-tree-sitter/tree-sitter.js:1:16465)
+    at wasm://wasm/001ec906:wasm-function[21]:0x1ccf
+    at e.<computed> (/home/cj/.vscode-oss/extensions/mads-hartmann.bash-ide-vscode-1.38.0-universal/node_modules/web-tree-sitter/tree-sitter.js:1:16465)
+    at wasm://wasm/001ec906:wasm-function[19]:0x17aa
+    at wasm://wasm/000b627a:wasm-function[234]:0x25842
+    at Parser.parse (/home/cj/.vscode-oss/extensions/mads-hartmann.bash-ide-vscode-1.38.0-universal/node_modules/web-tree-sitter/tree-sitter.js:1:53325)
+    at Analyzer.analyze (/home/cj/.vscode-oss/extensions/mads-hartmann.bash-ide-vscode-1.38.0-universal/node_modules/bash-language-server/out/analyser.js:47:34)
+    at BashServer.<anonymous> (/home/cj/.vscode-oss/extensions/mads-hartmann.bash-ide-vscode-1.38.0-universal/node_modules/bash-language-server/out/server.js:241:45)
+    at Generator.next (<anonymous>)
+    at /home/cj/.vscode-oss/extensions/mads-hartmann.bash-ide-vscode-1.38.0-universal/node_modules/bash-language-server/out/server.js:8:71
+[Error - 6:35:58 PM] Unhandled Rejection at promise: [object Promise], reason: TypeError: Cannot read properties of undefined (reading 'apply')
+    at e.<computed> (/home/cj/.vscode-oss/extensions/mads-hartmann.bash-ide-vscode-1.38.0-universal/node_modules/web-tree-sitter/tree-sitter.js:1:16465)
+    at wasm://wasm/001ec906:wasm-function[21]:0x1ccf
+    at e.<computed> (/home/cj/.vscode-oss/extensions/mads-hartmann.bash-ide-vscode-1.38.0-universal/node_modules/web-tree-sitter/tree-sitter.js:1:16465)
+    at wasm://wasm/001ec906:wasm-function[19]:0x17aa
+    at wasm://wasm/000b627a:wasm-function[234]:0x25842
+    at Parser.parse (/home/cj/.vscode-oss/extensions/mads-hartmann.bash-ide-vscode-1.38.0-universal/node_modules/web-tree-sitter/tree-sitter.js:1:53325)
+    at Analyzer.analyze (/home/cj/.vscode-oss/extensions/mads-hartmann.bash-ide-vscode-1.38.0-universal/node_modules/bash-language-server/out/analyser.js:47:34)
+    at BashServer.<anonymous> (/home/cj/.vscode-oss/extensions/mads-hartmann.bash-ide-vscode-1.38.0-universal/node_modules/bash-language-server/out/server.js:241:45)
+    at Generator.next (<anonymous>)
+    at /home/cj/.vscode-oss/extensions/mads-hartmann.bash-ide-vscode-1.38.0-universal/node_modules/bash-language-server/out/server.js:8:71
+[Error - 6:35:59 PM] Unhandled Rejection at promise: [object Promise], reason: TypeError: Cannot read properties of undefined (reading 'apply')
+    at e.<computed> (/home/cj/.vscode-oss/extensions/mads-hartmann.bash-ide-vscode-1.38.0-universal/node_modules/web-tree-sitter/tree-sitter.js:1:16465)
+    at wasm://wasm/001ec906:wasm-function[21]:0x1ccf
+    at e.<computed> (/home/cj/.vscode-oss/extensions/mads-hartmann.bash-ide-vscode-1.38.0-universal/node_modules/web-tree-sitter/tree-sitter.js:1:16465)
+    at wasm://wasm/001ec906:wasm-function[19]:0x17aa
+    at wasm://wasm/000b627a:wasm-function[234]:0x25842
+    at Parser.parse (/home/cj/.vscode-oss/extensions/mads-hartmann.bash-ide-vscode-1.38.0-universal/node_modules/web-tree-sitter/tree-sitter.js:1:53325)
+    at Analyzer.analyze (/home/cj/.vscode-oss/extensions/mads-hartmann.bash-ide-vscode-1.38.0-universal/node_modules/bash-language-server/out/analyser.js:47:34)
+    at BashServer.<anonymous> (/home/cj/.vscode-oss/extensions/mads-hartmann.bash-ide-vscode-1.38.0-universal/node_modules/bash-language-server/out/server.js:241:45)
+    at Generator.next (<anonymous>)
+    at /home/cj/.vscode-oss/extensions/mads-hartmann.bash-ide-vscode-1.38.0-universal/node_modules/bash-language-server/out/server.js:8:71
+[Error - 6:35:59 PM] Unhandled Rejection at promise: [object Promise], reason: TypeError: Cannot read properties of undefined (reading 'apply')
+    at e.<computed> (/home/cj/.vscode-oss/extensions/mads-hartmann.bash-ide-vscode-1.38.0-universal/node_modules/web-tree-sitter/tree-sitter.js:1:16465)
+    at wasm://wasm/001ec906:wasm-function[21]:0x1ccf
+    at e.<computed> (/home/cj/.vscode-oss/extensions/mads-hartmann.bash-ide-vscode-1.38.0-universal/node_modules/web-tree-sitter/tree-sitter.js:1:16465)
+    at wasm://wasm/001ec906:wasm-function[19]:0x17aa
+    at wasm://wasm/000b627a:wasm-function[234]:0x25842
+    at Parser.parse (/home/cj/.vscode-oss/extensions/mads-hartmann.bash-ide-vscode-1.38.0-universal/node_modules/web-tree-sitter/tree-sitter.js:1:53325)
+    at Analyzer.analyze (/home/cj/.vscode-oss/extensions/mads-hartmann.bash-ide-vscode-1.38.0-universal/node_modules/bash-language-server/out/analyser.js:47:34)
+    at BashServer.<anonymous> (/home/cj/.vscode-oss/extensions/mads-hartmann.bash-ide-vscode-1.38.0-universal/node_modules/bash-language-server/out/server.js:241:45)
+    at Generator.next (<anonymous>)
+    at /home/cj/.vscode-oss/extensions/mads-hartmann.bash-ide-vscode-1.38.0-universal/node_modules/bash-language-server/out/server.js:8:71
+[Error - 6:35:59 PM] Unhandled Rejection at promise: [object Promise], reason: TypeError: Cannot read properties of undefined (reading 'apply')
+    at e.<computed> (/home/cj/.vscode-oss/extensions/mads-hartmann.bash-ide-vscode-1.38.0-universal/node_modules/web-tree-sitter/tree-sitter.js:1:16465)
+    at wasm://wasm/001ec906:wasm-function[21]:0x1ccf
+    at e.<computed> (/home/cj/.vscode-oss/extensions/mads-hartmann.bash-ide-vscode-1.38.0-universal/node_modules/web-tree-sitter/tree-sitter.js:1:16465)
+    at wasm://wasm/001ec906:wasm-function[19]:0x17aa
+    at wasm://wasm/000b627a:wasm-function[234]:0x25842
+    at Parser.parse (/home/cj/.vscode-oss/extensions/mads-hartmann.bash-ide-vscode-1.38.0-universal/node_modules/web-tree-sitter/tree-sitter.js:1:53325)
+    at Analyzer.analyze (/home/cj/.vscode-oss/extensions/mads-hartmann.bash-ide-vscode-1.38.0-universal/node_modules/bash-language-server/out/analyser.js:47:34)
+    at BashServer.<anonymous> (/home/cj/.vscode-oss/extensions/mads-hartmann.bash-ide-vscode-1.38.0-universal/node_modules/bash-language-server/out/server.js:241:45)
+    at Generator.next (<anonymous>)
+    at /home/cj/.vscode-oss/extensions/mads-hartmann.bash-ide-vscode-1.38.0-universal/node_modules/bash-language-server/out/server.js:8:71
+[Error - 6:35:59 PM] Unhandled Rejection at promise: [object Promise], reason: TypeError: Cannot read properties of undefined (reading 'apply')
+    at e.<computed> (/home/cj/.vscode-oss/extensions/mads-hartmann.bash-ide-vscode-1.38.0-universal/node_modules/web-tree-sitter/tree-sitter.js:1:16465)
+    at wasm://wasm/001ec906:wasm-function[21]:0x1ccf
+    at e.<computed> (/home/cj/.vscode-oss/extensions/mads-hartmann.bash-ide-vscode-1.38.0-universal/node_modules/web-tree-sitter/tree-sitter.js:1:16465)
+    at wasm://wasm/001ec906:wasm-function[19]:0x17aa
+    at wasm://wasm/000b627a:wasm-function[234]:0x25842
+    at Parser.parse (/home/cj/.vscode-oss/extensions/mads-hartmann.bash-ide-vscode-1.38.0-universal/node_modules/web-tree-sitter/tree-sitter.js:1:53325)
+    at Analyzer.analyze (/home/cj/.vscode-oss/extensions/mads-hartmann.bash-ide-vscode-1.38.0-universal/node_modules/bash-language-server/out/analyser.js:47:34)
+    at BashServer.<anonymous> (/home/cj/.vscode-oss/extensions/mads-hartmann.bash-ide-vscode-1.38.0-universal/node_modules/bash-language-server/out/server.js:241:45)
+    at Generator.next (<anonymous>)
+    at /home/cj/.vscode-oss/extensions/mads-hartmann.bash-ide-vscode-1.38.0-universal/node_modules/bash-language-server/out/server.js:8:71
+[Warn  - 6:36:00 PM] 22:36:00.610 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Error - 6:36:00 PM] Request textDocument/documentSymbol failed.
+Error: name must not be falsy
+	at h.validate (/usr/share/vscodium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:148:19898)
+	at new h (/usr/share/vscodium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:148:20136)
+	at asSymbolInformation (/home/cj/.vscode-oss/extensions/mads-hartmann.bash-ide-vscode-1.38.0-universal/node_modules/vscode-languageclient/lib/common/protocolConverter.js:593:15)
+	at convertBatch (/home/cj/.vscode-oss/extensions/mads-hartmann.bash-ide-vscode-1.38.0-universal/node_modules/vscode-languageclient/lib/common/utils/async.js:193:25)
+	at Object.map (/home/cj/.vscode-oss/extensions/mads-hartmann.bash-ide-vscode-1.38.0-universal/node_modules/vscode-languageclient/lib/common/utils/async.js:202:17)
+	at Object.asSymbolInformations (/home/cj/.vscode-oss/extensions/mads-hartmann.bash-ide-vscode-1.38.0-universal/node_modules/vscode-languageclient/lib/common/protocolConverter.js:558:22)
+	at _provideDocumentSymbols (/home/cj/.vscode-oss/extensions/mads-hartmann.bash-ide-vscode-1.38.0-universal/node_modules/vscode-languageclient/lib/common/documentSymbol.js:86:76)
+	at async u.provideDocumentSymbols (/usr/share/vscodium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:107774)
+[Error - 6:36:00 PM] Request textDocument/documentSymbol failed.
+Error: name must not be falsy
+	at h.validate (/usr/share/vscodium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:148:19898)
+	at new h (/usr/share/vscodium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:148:20136)
+	at asSymbolInformation (/home/cj/.vscode-oss/extensions/mads-hartmann.bash-ide-vscode-1.38.0-universal/node_modules/vscode-languageclient/lib/common/protocolConverter.js:593:15)
+	at convertBatch (/home/cj/.vscode-oss/extensions/mads-hartmann.bash-ide-vscode-1.38.0-universal/node_modules/vscode-languageclient/lib/common/utils/async.js:193:25)
+	at Object.map (/home/cj/.vscode-oss/extensions/mads-hartmann.bash-ide-vscode-1.38.0-universal/node_modules/vscode-languageclient/lib/common/utils/async.js:202:17)
+	at Object.asSymbolInformations (/home/cj/.vscode-oss/extensions/mads-hartmann.bash-ide-vscode-1.38.0-universal/node_modules/vscode-languageclient/lib/common/protocolConverter.js:558:22)
+	at _provideDocumentSymbols (/home/cj/.vscode-oss/extensions/mads-hartmann.bash-ide-vscode-1.38.0-universal/node_modules/vscode-languageclient/lib/common/documentSymbol.js:86:76)
+	at async u.provideDocumentSymbols (/usr/share/vscodium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:107774)
+[Warn  - 6:39:44 PM] 22:39:44.927 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:39:45 PM] 22:39:45.997 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:42:07 PM] 22:42:07.536 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:42:07 PM] 22:42:07.943 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:42:10 PM] 22:42:10.574 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:42:11 PM] 22:42:11.406 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:42:12 PM] 22:42:12.080 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:42:12 PM] 22:42:12.448 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:42:17 PM] 22:42:17.209 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:42:18 PM] 22:42:18.254 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:42:19 PM] 22:42:19.468 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:42:20 PM] 22:42:20.449 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:42:21 PM] 22:42:21.181 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:42:21 PM] 22:42:21.461 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:42:21 PM] 22:42:21.725 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:42:22 PM] 22:42:22.524 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:42:23 PM] 22:42:23.726 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:42:24 PM] 22:42:24.077 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:42:24 PM] 22:42:24.454 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:42:25 PM] 22:42:25.430 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:42:27 PM] 22:42:27.780 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:42:32 PM] 22:42:32.539 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:42:33 PM] 22:42:33.727 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:42:39 PM] 22:42:39.788 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:42:42 PM] 22:42:42.508 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:42:42 PM] 22:42:42.608 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:42:43 PM] 22:42:43.563 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:43:06 PM] 22:43:06.778 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:43:07 PM] 22:43:07.288 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:43:23 PM] 22:43:23.729 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:43:23 PM] 22:43:23.829 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:43:24 PM] 22:43:24.772 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:43:24 PM] 22:43:24.854 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:43:25 PM] 22:43:25.963 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:43:26 PM] 22:43:26.838 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:43:29 PM] 22:43:29.036 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:43:29 PM] 22:43:29.295 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:43:31 PM] 22:43:31.416 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:43:31 PM] 22:43:31.523 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:43:32 PM] 22:43:32.382 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:43:33 PM] 22:43:33.511 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:43:33 PM] 22:43:33.579 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:43:33 PM] 22:43:33.811 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:43:34 PM] 22:43:34.364 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:43:38 PM] 22:43:38.912 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:43:40 PM] 22:43:40.468 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:43:40 PM] 22:43:40.555 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:43:41 PM] 22:43:41.471 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:43:41 PM] 22:43:41.495 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:43:42 PM] 22:43:42.235 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:43:42 PM] 22:43:42.458 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:43:42 PM] 22:43:42.612 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:43:43 PM] 22:43:43.575 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:43:47 PM] 22:43:47.163 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:43:49 PM] 22:43:49.202 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:43:58 PM] 22:43:58.482 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:43:58 PM] 22:43:58.917 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:44:01 PM] 22:44:01.224 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:44:01 PM] 22:44:01.312 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:44:23 PM] 22:44:23.153 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:44:23 PM] 22:44:23.557 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:44:24 PM] 22:44:24.848 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:44:25 PM] 22:44:25.489 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:44:26 PM] 22:44:26.020 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:44:27 PM] 22:44:27.085 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:44:27 PM] 22:44:27.619 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:44:27 PM] 22:44:27.837 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:44:28 PM] 22:44:28.695 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:44:29 PM] 22:44:29.976 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:44:33 PM] 22:44:33.621 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:44:35 PM] 22:44:35.520 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:44:35 PM] 22:44:35.645 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:44:36 PM] 22:44:36.085 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:44:36 PM] 22:44:36.370 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:44:36 PM] 22:44:36.778 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:44:37 PM] 22:44:37.410 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:44:38 PM] 22:44:38.622 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:44:39 PM] 22:44:39.528 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:44:39 PM] 22:44:39.803 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:44:46 PM] 22:44:46.831 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:44:51 PM] 22:44:51.122 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:45:17 PM] 22:45:17.408 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:45:17 PM] 22:45:17.777 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:45:18 PM] 22:45:18.055 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:45:18 PM] 22:45:18.618 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:45:19 PM] 22:45:19.510 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:45:29 PM] 22:45:29.630 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:45:43 PM] 22:45:43.370 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:45:45 PM] 22:45:45.148 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:45:45 PM] 22:45:45.906 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:45:46 PM] 22:45:46.620 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:45:48 PM] 22:45:48.255 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:45:48 PM] 22:45:48.994 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:45:54 PM] 22:45:54.081 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:45:54 PM] 22:45:54.771 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:46:06 PM] 22:46:06.991 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:46:08 PM] 22:46:08.836 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:46:10 PM] 22:46:10.648 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:46:11 PM] 22:46:11.760 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:46:14 PM] 22:46:14.772 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:46:15 PM] 22:46:15.279 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:49:12 PM] 22:49:12.676 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:49:13 PM] 22:49:13.081 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:51:59 PM] 22:51:59.205 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:52:02 PM] 22:52:02.322 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:52:03 PM] 22:52:03.818 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 6:52:04 PM] 22:52:04.410 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 7:05:15 PM] 23:05:15.013 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/workspaces-move.sh: syntax error
+[Warn  - 7:05:21 PM] 23:05:21.386 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/workspaces-move.sh: syntax error
+[Warn  - 7:05:30 PM] 23:05:30.482 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 7:05:32 PM] 23:05:32.865 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 7:05:34 PM] 23:05:34.387 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 7:05:35 PM] 23:05:35.457 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 7:05:37 PM] 23:05:37.511 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 7:05:38 PM] 23:05:38.238 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 7:05:45 PM] 23:05:45.025 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 7:05:45 PM] 23:05:45.457 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 7:05:51 PM] 23:05:51.807 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 7:05:57 PM] 23:05:57.434 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 7:05:57 PM] 23:05:57.774 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 7:05:58 PM] 23:05:58.107 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 7:05:58 PM] 23:05:58.598 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 7:05:59 PM] 23:05:59.421 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 7:06:04 PM] 23:06:04.053 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 7:06:05 PM] 23:06:05.700 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 7:06:07 PM] 23:06:07.472 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 7:06:08 PM] 23:06:08.349 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 7:06:09 PM] 23:06:09.233 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 7:06:11 PM] 23:06:11.762 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 7:06:11 PM] 23:06:11.861 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 7:06:12 PM] 23:06:12.476 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 7:06:30 PM] 23:06:30.816 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Error - 7:06:33 PM] Unhandled Rejection at promise: [object Promise], reason: TypeError: Cannot read properties of undefined (reading 'apply')
+    at e.<computed> (/home/cj/.vscode-oss/extensions/mads-hartmann.bash-ide-vscode-1.38.0-universal/node_modules/web-tree-sitter/tree-sitter.js:1:16465)
+    at wasm://wasm/001ec906:wasm-function[21]:0x1ccf
+    at e.<computed> (/home/cj/.vscode-oss/extensions/mads-hartmann.bash-ide-vscode-1.38.0-universal/node_modules/web-tree-sitter/tree-sitter.js:1:16465)
+    at wasm://wasm/001ec906:wasm-function[19]:0x17aa
+    at wasm://wasm/000b627a:wasm-function[234]:0x25842
+    at Parser.parse (/home/cj/.vscode-oss/extensions/mads-hartmann.bash-ide-vscode-1.38.0-universal/node_modules/web-tree-sitter/tree-sitter.js:1:53325)
+    at Analyzer.analyze (/home/cj/.vscode-oss/extensions/mads-hartmann.bash-ide-vscode-1.38.0-universal/node_modules/bash-language-server/out/analyser.js:47:34)
+    at BashServer.<anonymous> (/home/cj/.vscode-oss/extensions/mads-hartmann.bash-ide-vscode-1.38.0-universal/node_modules/bash-language-server/out/server.js:241:45)
+    at Generator.next (<anonymous>)
+    at /home/cj/.vscode-oss/extensions/mads-hartmann.bash-ide-vscode-1.38.0-universal/node_modules/bash-language-server/out/server.js:8:71
+[Error - 7:06:46 PM] Unhandled Rejection at promise: [object Promise], reason: TypeError: Cannot read properties of undefined (reading 'apply')
+    at e.<computed> (/home/cj/.vscode-oss/extensions/mads-hartmann.bash-ide-vscode-1.38.0-universal/node_modules/web-tree-sitter/tree-sitter.js:1:16465)
+    at wasm://wasm/001ec906:wasm-function[21]:0x1ccf
+    at e.<computed> (/home/cj/.vscode-oss/extensions/mads-hartmann.bash-ide-vscode-1.38.0-universal/node_modules/web-tree-sitter/tree-sitter.js:1:16465)
+    at wasm://wasm/001ec906:wasm-function[19]:0x17aa
+    at wasm://wasm/000b627a:wasm-function[234]:0x25842
+    at Parser.parse (/home/cj/.vscode-oss/extensions/mads-hartmann.bash-ide-vscode-1.38.0-universal/node_modules/web-tree-sitter/tree-sitter.js:1:53325)
+    at Analyzer.analyze (/home/cj/.vscode-oss/extensions/mads-hartmann.bash-ide-vscode-1.38.0-universal/node_modules/bash-language-server/out/analyser.js:47:34)
+    at BashServer.<anonymous> (/home/cj/.vscode-oss/extensions/mads-hartmann.bash-ide-vscode-1.38.0-universal/node_modules/bash-language-server/out/server.js:241:45)
+    at Generator.next (<anonymous>)
+    at /home/cj/.vscode-oss/extensions/mads-hartmann.bash-ide-vscode-1.38.0-universal/node_modules/bash-language-server/out/server.js:8:71
+[Error - 7:06:48 PM] Unhandled Rejection at promise: [object Promise], reason: TypeError: Cannot read properties of undefined (reading 'apply')
+    at e.<computed> (/home/cj/.vscode-oss/extensions/mads-hartmann.bash-ide-vscode-1.38.0-universal/node_modules/web-tree-sitter/tree-sitter.js:1:16465)
+    at wasm://wasm/001ec906:wasm-function[21]:0x1ccf
+    at e.<computed> (/home/cj/.vscode-oss/extensions/mads-hartmann.bash-ide-vscode-1.38.0-universal/node_modules/web-tree-sitter/tree-sitter.js:1:16465)
+    at wasm://wasm/001ec906:wasm-function[19]:0x17aa
+    at wasm://wasm/000b627a:wasm-function[234]:0x25842
+    at Parser.parse (/home/cj/.vscode-oss/extensions/mads-hartmann.bash-ide-vscode-1.38.0-universal/node_modules/web-tree-sitter/tree-sitter.js:1:53325)
+    at Analyzer.analyze (/home/cj/.vscode-oss/extensions/mads-hartmann.bash-ide-vscode-1.38.0-universal/node_modules/bash-language-server/out/analyser.js:47:34)
+    at BashServer.<anonymous> (/home/cj/.vscode-oss/extensions/mads-hartmann.bash-ide-vscode-1.38.0-universal/node_modules/bash-language-server/out/server.js:241:45)
+    at Generator.next (<anonymous>)
+    at /home/cj/.vscode-oss/extensions/mads-hartmann.bash-ide-vscode-1.38.0-universal/node_modules/bash-language-server/out/server.js:8:71
+[Error - 7:06:59 PM] Unhandled Rejection at promise: [object Promise], reason: TypeError: Cannot read properties of undefined (reading 'apply')
+    at e.<computed> (/home/cj/.vscode-oss/extensions/mads-hartmann.bash-ide-vscode-1.38.0-universal/node_modules/web-tree-sitter/tree-sitter.js:1:16465)
+    at wasm://wasm/001ec906:wasm-function[21]:0x1ccf
+    at e.<computed> (/home/cj/.vscode-oss/extensions/mads-hartmann.bash-ide-vscode-1.38.0-universal/node_modules/web-tree-sitter/tree-sitter.js:1:16465)
+    at wasm://wasm/001ec906:wasm-function[19]:0x17aa
+    at wasm://wasm/000b627a:wasm-function[234]:0x25842
+    at Parser.parse (/home/cj/.vscode-oss/extensions/mads-hartmann.bash-ide-vscode-1.38.0-universal/node_modules/web-tree-sitter/tree-sitter.js:1:53325)
+    at Analyzer.analyze (/home/cj/.vscode-oss/extensions/mads-hartmann.bash-ide-vscode-1.38.0-universal/node_modules/bash-language-server/out/analyser.js:47:34)
+    at BashServer.<anonymous> (/home/cj/.vscode-oss/extensions/mads-hartmann.bash-ide-vscode-1.38.0-universal/node_modules/bash-language-server/out/server.js:241:45)
+    at Generator.next (<anonymous>)
+    at /home/cj/.vscode-oss/extensions/mads-hartmann.bash-ide-vscode-1.38.0-universal/node_modules/bash-language-server/out/server.js:8:71
+[Warn  - 7:07:04 PM] 23:07:04.116 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Error - 7:07:04 PM] Unhandled Rejection at promise: [object Promise], reason: TypeError: Cannot read properties of undefined (reading 'apply')
+    at e.<computed> (/home/cj/.vscode-oss/extensions/mads-hartmann.bash-ide-vscode-1.38.0-universal/node_modules/web-tree-sitter/tree-sitter.js:1:16465)
+    at wasm://wasm/001ec906:wasm-function[21]:0x1ccf
+    at e.<computed> (/home/cj/.vscode-oss/extensions/mads-hartmann.bash-ide-vscode-1.38.0-universal/node_modules/web-tree-sitter/tree-sitter.js:1:16465)
+    at wasm://wasm/001ec906:wasm-function[19]:0x17aa
+    at wasm://wasm/000b627a:wasm-function[234]:0x25842
+    at Parser.parse (/home/cj/.vscode-oss/extensions/mads-hartmann.bash-ide-vscode-1.38.0-universal/node_modules/web-tree-sitter/tree-sitter.js:1:53325)
+    at Analyzer.analyze (/home/cj/.vscode-oss/extensions/mads-hartmann.bash-ide-vscode-1.38.0-universal/node_modules/bash-language-server/out/analyser.js:47:34)
+    at BashServer.<anonymous> (/home/cj/.vscode-oss/extensions/mads-hartmann.bash-ide-vscode-1.38.0-universal/node_modules/bash-language-server/out/server.js:241:45)
+    at Generator.next (<anonymous>)
+    at /home/cj/.vscode-oss/extensions/mads-hartmann.bash-ide-vscode-1.38.0-universal/node_modules/bash-language-server/out/server.js:8:71
+[Warn  - 7:07:08 PM] 23:07:08.346 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 7:07:09 PM] 23:07:09.518 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 7:08:27 PM] 23:08:27.648 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 7:08:29 PM] 23:08:29.596 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 7:08:33 PM] 23:08:33.377 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 7:08:33 PM] 23:08:33.778 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 7:08:34 PM] 23:08:34.045 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 7:08:49 PM] 23:08:49.151 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 7:08:50 PM] 23:08:50.086 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 7:08:58 PM] 23:08:58.272 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/workspaces.sh: syntax error
+[Warn  - 7:09:03 PM] 23:09:03.708 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 7:09:04 PM] 23:09:04.118 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 7:09:04 PM] 23:09:04.218 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 7:09:04 PM] 23:09:04.600 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 7:09:32 PM] 23:09:32.975 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 7:09:33 PM] 23:09:33.075 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 7:09:34 PM] 23:09:34.890 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 7:09:50 PM] 23:09:50.392 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 7:10:17 PM] 23:10:17.876 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 7:10:18 PM] 23:10:18.548 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 7:10:18 PM] 23:10:18.826 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 7:10:19 PM] 23:10:19.101 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 7:10:22 PM] 23:10:22.973 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 7:10:24 PM] 23:10:24.456 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 7:10:27 PM] 23:10:27.252 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 7:10:32 PM] 23:10:32.836 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 7:10:34 PM] 23:10:34.409 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 7:13:38 PM] 23:13:38.900 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 7:13:41 PM] 23:13:41.590 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 7:22:01 PM] 23:22:01.797 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 7:22:02 PM] 23:22:02.151 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 7:22:04 PM] 23:22:04.322 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 7:29:56 PM] 23:29:56.239 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 7:29:56 PM] 23:29:56.745 WARNING ⛔️ ShellCheck: disabling linting as no executable was found at path 'shellcheck'
+[Warn  - 7:29:57 PM] 23:29:57.185 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 7:29:59 PM] 23:29:59.730 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 7:29:59 PM] 23:29:59.992 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 7:30:02 PM] 23:30:02.678 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 7:30:03 PM] 23:30:03.302 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 7:30:25 PM] 23:30:25.421 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 7:30:25 PM] 23:30:25.684 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 7:30:25 PM] 23:30:25.937 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 7:30:26 PM] 23:30:26.666 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 7:30:28 PM] 23:30:28.761 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 7:33:51 PM] 23:33:51.208 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 7:34:50 PM] 23:34:50.539 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 7:34:52 PM] 23:34:52.225 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 7:34:53 PM] 23:34:53.175 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 7:34:54 PM] 23:34:54.248 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 7:34:55 PM] 23:34:55.250 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 7:39:49 PM] 23:39:49.210 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 7:39:51 PM] 23:39:51.140 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 7:39:52 PM] 23:39:52.062 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 7:39:53 PM] 23:39:53.675 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/findsuffix: syntax error
+[Warn  - 8:38:57 PM] 00:38:57.085 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/workspaces-move.sh: syntax error
+[Warn  - 8:38:57 PM] 00:38:57.907 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/workspaces.sh: syntax error
+[Warn  - 8:39:00 PM] 00:39:00.315 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/workspaces-move.sh: syntax error
+[Warn  - 8:39:00 PM] 00:39:00.420 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/workspaces-move.sh: syntax error
+[Warn  - 8:39:01 PM] 00:39:01.024 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/workspaces-move.sh: syntax error
+[Warn  - 8:39:03 PM] 00:39:03.235 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/workspaces.sh: syntax error

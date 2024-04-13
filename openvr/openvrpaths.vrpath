@@ -1,14 +1,17 @@
 {
-  "config": [
-    "/home/cj/.local/share/Steam/config"
-  ],
-  "external_drivers": null,
-  "jsonid": "vrpathreg",
-  "log": [
-    "/home/cj/.local/share/Steam/logs"
-  ],
-  "runtime": [
-    "/home/cj/.local/share/Steam/steamapps/common/SteamVR"
-  ],
-  "version": 1
+	"config" : 
+	[
+		"/home/cj/.local/share/Steam/config"
+	],
+	"external_drivers" : null,
+	"jsonid" : "vrpathreg",
+	"log" : 
+	[
+		"/home/cj/.local/share/Steam/logs"
+	],
+	"runtime" : 
+	[
+		"/home/cj/.local/share/Steam/steamapps/common/SteamVR"
+	],
+	"version" : 1
 }

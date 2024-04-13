@@ -1,0 +1,43 @@
+2024-04-01 10:10:53.974 [info] Extension host with pid 18878 started
+2024-04-01 10:10:53.974 [info] Skipping acquiring lock for /home/cj/.config/VSCodium/User/workspaceStorage/6a6b1510e1a48f06d7da9c7230c1c1c0.
+2024-04-01 10:10:53.987 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-04-01 10:10:53.992 [info] ExtensionService#_doActivateExtension SPGoding.datapack-language-server, startup: false, activationEvent: 'onLanguage:mcfunction'
+2024-04-01 10:10:54.016 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-04-01 10:10:54.018 [info] ExtensionService#_doActivateExtension hbenl.test-adapter-converter, startup: true, activationEvent: '*', root cause: hbenl.vscode-test-explorer
+2024-04-01 10:10:54.039 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-04-01 10:10:54.054 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-04-01 10:10:54.060 [info] ExtensionService#_doActivateExtension hbenl.vscode-test-explorer, startup: true, activationEvent: '*'
+2024-04-01 10:10:54.097 [info] Eager extensions activated
+2024-04-01 10:10:54.114 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-04-01 10:10:54.115 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-04-01 10:10:54.119 [info] ExtensionService#_doActivateExtension Catppuccin.catppuccin-vsc, startup: false, activationEvent: 'onStartupFinished'
+2024-04-01 10:10:54.121 [info] ExtensionService#_doActivateExtension vadimcn.vscode-lldb, startup: false, activationEvent: 'onStartupFinished'
+2024-04-01 10:10:57.946 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+2024-04-01 10:10:57.949 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:json'
+2024-04-01 10:10:57.961 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onLanguage:json'
+2024-04-01 10:11:19.184 [info] Extension host terminating: renderer closed the MessagePort
+2024-04-01 10:11:19.191 [info] Extension host with pid 18878 exiting with code 0
+2024-04-01 10:11:20.076 [info] Extension host with pid 19095 started
+2024-04-01 10:11:20.076 [info] Skipping acquiring lock for /home/cj/.config/VSCodium/User/workspaceStorage/24a400fa3678de6e01e926b3c016417d.
+2024-04-01 10:11:20.135 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-04-01 10:11:20.140 [info] ExtensionService#_doActivateExtension rust-lang.rust-analyzer, startup: false, activationEvent: 'onLanguage:rust'
+2024-04-01 10:11:20.340 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-04-01 10:11:20.341 [info] ExtensionService#_doActivateExtension hbenl.test-adapter-converter, startup: true, activationEvent: '*', root cause: hbenl.vscode-test-explorer
+2024-04-01 10:11:20.354 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-04-01 10:11:20.369 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-04-01 10:11:20.374 [info] ExtensionService#_doActivateExtension hbenl.vscode-test-explorer, startup: true, activationEvent: '*'
+2024-04-01 10:11:20.402 [info] ExtensionService#_doActivateExtension serayuzgur.crates, startup: true, activationEvent: 'workspaceContains:*/Cargo.toml'
+2024-04-01 10:11:20.440 [info] Eager extensions activated
+2024-04-01 10:11:20.454 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-04-01 10:11:20.460 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-04-01 10:11:20.463 [info] ExtensionService#_doActivateExtension Catppuccin.catppuccin-vsc, startup: false, activationEvent: 'onStartupFinished'
+2024-04-01 10:11:20.465 [info] ExtensionService#_doActivateExtension vadimcn.vscode-lldb, startup: false, activationEvent: 'onStartupFinished'
+2024-04-01 10:11:20.547 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2024-04-01 14:32:53.223 [error] Error: INVALID code lens resolved, lacks command: rust-lang.rust-analyzer
+	at s.resolveCodeLens (/usr/share/vscodium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:109626)
+	at runNextTicks (node:internal/process/task_queues:60:5)
+	at process.processImmediate (node:internal/timers:447:9)
+2024-04-01 14:32:53.223 [error] Error: INVALID code lens resolved, lacks command: rust-lang.rust-analyzer
+	at s.resolveCodeLens (/usr/share/vscodium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:109626)
+2024-04-01 14:32:53.223 [error] Error: INVALID code lens resolved, lacks command: rust-lang.rust-analyzer
+	at s.resolveCodeLens (/usr/share/vscodium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:109626)

@@ -1,0 +1,101 @@
+(14:05:20) INFO:    [Legendary]:        Legendary location: /opt/heroic/resources/app.asar.unpacked/build/bin/linux/legendary
+(14:05:20) INFO:    [Gog]:              GOGDL location: /opt/heroic/resources/app.asar.unpacked/build/bin/linux/gogdl
+(14:05:20) INFO:    [Connection]:       Connectivity: check-online
+(14:05:20) INFO:    [Connection]:       Pinging external endpoints
+(14:05:20) INFO:    [Backend]:          DRM module staus {
+  "oimompecagnajdejgnnjijobebaeigek": {
+    "name": "Widevine Content Decryption Module",
+    "status": "new",
+    "version": "4.10.2710.0"
+  }
+}
+(14:05:21) WARNING: [Backend]:          Protocol already registered.
+(14:05:21) INFO:    [Legendary]:        Running command: LEGENDARY_CONFIG_PATH=/home/cj/.config/heroic/legendaryConfig/legendary /opt/heroic/resources/app.asar.unpacked/build/bin/linux/legendary --version
+(14:05:21) INFO:    [Gog]:              Running command: /opt/heroic/resources/app.asar.unpacked/build/bin/linux/gogdl --auth-config-path /home/cj/.config/heroic/gog_store/auth.json --version
+(14:05:21) INFO:    [Nile]:             Running command: NILE_CONFIG_PATH=/home/cj/.config/heroic/nile_config /opt/heroic/resources/app.asar.unpacked/build/bin/linux/nile --version
+(14:05:21) INFO:    [Connection]:       Connectivity: online
+(14:05:21) ERROR:   [Gog]:              Unable to syncQueued playtime, userData not present
+(14:05:21) INFO:    [Backend]:          
+System Information:
+CPU: 16x AMD Ryzen 7 5800X 8-Core Processor
+Memory: 33.57 GB (used: 4.15 GB)
+GPUs:
+  GPU 0:
+    Name: NVIDIA Corporation GA104 [GeForce RTX 3060 Ti]
+    IDs: D=2486 V=10de SD=147a SV=10de
+    Driver: nvidia
+OS: Arch Linux 6.7.9-arch1-1 (linux)
+
+The current system is not a Steam Deck
+We are not running inside a Flatpak container
+
+Software Versions:
+  Heroic: 2.12.0 Vegapunk
+  Legendary: 0.20.34 Direct Intervention
+  gogdl: 0.7.3
+  Nile: 1.0.0 Jonathan Joestar
+
+(14:05:21) INFO:    [Backend]:          AreWeAntiCheatYet data downloaded
+(14:05:21) INFO:    [Frontend]:         Refreshing undefined Library
+(14:05:21) WARNING: [Backend]:          refresh not implemented on Sideload Library Manager
+(14:05:21) INFO:    [Legendary]:        Refreshing library...
+(14:05:21) INFO:    [Legendary]:        Refreshing Epic Games...
+(14:05:21) INFO:    [Legendary]:        Game list updated, got 2 games & DLCs
+(14:05:21) INFO:    [Backend]:          Frontend Ready
+(14:05:21) WARNING: [Backend]:          listUpdateableGames not implemented on Sideload Library Manager
+(14:05:21) INFO:    [Gog]:              Found 0 game(s) to update
+(14:05:21) INFO:    [Backend]:          Checking for new Heroic Updates
+(14:05:21) INFO:    [Backend]:          Checking for current version changelog
+(14:05:21) INFO:    [Legendary]:        Running command: LEGENDARY_CONFIG_PATH=/home/cj/.config/heroic/legendaryConfig/legendary /opt/heroic/resources/app.asar.unpacked/build/bin/linux/legendary list --third-party
+(14:05:21) INFO:    [Legendary]:        Checking for game updates: LEGENDARY_CONFIG_PATH=/home/cj/.config/heroic/legendaryConfig/legendary /opt/heroic/resources/app.asar.unpacked/build/bin/linux/legendary list --third-party
+(14:05:22) INFO:    [Legendary]:        Found 0 games to update
+(14:05:22) INFO:    [Backend]:          Launching Rocket League® (Sugar)
+(14:05:22) INFO:    [Backend]:          Preventing display from sleep
+(14:05:22) INFO:    [Backend]:          Checking if wine version exists: Proton - Proton 8.0
+(14:05:22) INFO:    [Backend]:          Preventing machine to sleep
+(14:05:23) INFO:    [Backend]:          Checking if wine version exists: Proton - Proton 8.0
+(14:05:23) WARNING: [Backend]:          You are using Proton, this can lead to some bugs. Please do not open issues with bugs related to games
+(14:05:23) INFO:    [Backend]:          Checking if wine version exists: Proton - Proton 8.0
+(14:05:23) INFO:    [Backend]:          Checking if wine version exists: Proton - Proton 8.0
+(14:05:23) DEBUG:   [Backend]:          Running Wine command: run wineboot --init
+(14:05:23) INFO:    [Winetricks]:       Downloading Winetricks
+(14:05:24) INFO:    [Legendary]:        Launching Rocket League®: HEROIC_APP_NAME=Sugar HEROIC_APP_RUNNER=legendary HEROIC_APP_SOURCE=epic LD_PRELOAD= DOTNET_BUNDLE_EXTRACT_BASE_DIR= DOTNET_ROOT= STEAM_COMPAT_CLIENT_INSTALL_PATH=/home/cj/.steam/steam STEAM_COMPAT_DATA_PATH="/home/cj/Games/Heroic/Prefixes/default/Rocket League" STEAM_COMPAT_INSTALL_PATH=/home/cj/Games/Heroic/rocketleague WINE_FULLSCREEN_FSR=0 PROTON_ENABLE_NVAPI=1 DXVK_NVAPI_ALLOW_OTHER_DRIVERS=1 STEAM_COMPAT_APP_ID=0 SteamAppId=0 SteamGameId=heroic-rocketleague PROTON_LOG_DIR=/home/cj LEGENDARY_CONFIG_PATH=/home/cj/.config/heroic/legendaryConfig/legendary /opt/heroic/resources/app.asar.unpacked/build/bin/linux/legendary launch Sugar --no-wine --wrapper " '/home/cj/.local/share/Steam/steamapps/common/Proton 8.0/proton' run" --language en
+(14:05:24) INFO:    [Backend]:          Stopping Power Saver Blocker
+(14:05:25) INFO:    [WineDownloader]:   Updating wine versions info
+(14:05:25) INFO:    [WineDownloader]:   Fetching upstream information...
+(14:05:26) INFO:    [Backend]:          Starting the Download Queue
+(14:05:27) INFO:    [WineDownloader]:   wine versions updated
+(14:06:47) INFO:    [Backend]:          Stopping Display Power Saver Blocker
+(14:06:47) INFO:    [Frontend]:         Refreshing legendary Library
+(14:06:47) INFO:    [Legendary]:        Refreshing library...
+(14:06:47) INFO:    [Legendary]:        Refreshing Epic Games...
+(14:06:47) INFO:    [Legendary]:        Game list updated, got 2 games & DLCs
+(14:06:47) INFO:    [Legendary]:        Running command: LEGENDARY_CONFIG_PATH=/home/cj/.config/heroic/legendaryConfig/legendary /opt/heroic/resources/app.asar.unpacked/build/bin/linux/legendary list --third-party
+(14:11:01) INFO:    [Backend]:          Checking if wine version exists: Proton - Proton 8.0
+(14:11:01) INFO:    [Winetricks]:       Running WINEPREFIX='/home/cj/Games/Heroic/Prefixes/default/Rocket League/pfx' PATH='/home/cj/.local/share/Steam/steamapps/common/Proton 8.0/dist/bin':$PATH /home/cj/.config/heroic/tools/winetricks list-installed
+(14:11:01) INFO:    [Backend]:          Checking if wine version exists: Proton - Proton 8.0
+(14:11:01) INFO:    [Winetricks]:       Running WINEPREFIX='/home/cj/Games/Heroic/Prefixes/default/Rocket League/pfx' PATH='/home/cj/.local/share/Steam/steamapps/common/Proton 8.0/dist/bin':$PATH /home/cj/.config/heroic/tools/winetricks dlls list
+(14:11:01) WARNING: [Winetricks]:       cabextract not installed! Winetricks might fail to install some packages or even open
+(14:11:01) WARNING: [Winetricks]:       7z not installed! Winetricks might fail to install some packages or even open
+(14:11:01) WARNING: [Winetricks]:       cabextract not installed! Winetricks might fail to install some packages or even open
+(14:11:01) WARNING: [Winetricks]:       7z not installed! Winetricks might fail to install some packages or even open
+(14:11:03) INFO:    [Backend]:          Checking if wine version exists: Proton - Proton 8.0
+(14:11:03) INFO:    [Winetricks]:       Running WINEPREFIX='/home/cj/Games/Heroic/Prefixes/default/Rocket League/pfx' PATH='/home/cj/.local/share/Steam/steamapps/common/Proton 8.0/dist/bin':$PATH /home/cj/.config/heroic/tools/winetricks fonts list
+(14:11:03) WARNING: [Winetricks]:       cabextract not installed! Winetricks might fail to install some packages or even open
+(14:11:03) WARNING: [Winetricks]:       7z not installed! Winetricks might fail to install some packages or even open
+(14:11:07) INFO:    [Backend]:          Checking if wine version exists: Proton - Proton 8.0
+(14:11:07) INFO:    [Winetricks]:       Running WINEPREFIX='/home/cj/Games/Heroic/Prefixes/default/Rocket League/pfx' PATH='/home/cj/.local/share/Steam/steamapps/common/Proton 8.0/dist/bin':$PATH /home/cj/.config/heroic/tools/winetricks --force -q
+(14:11:07) WARNING: [Winetricks]:       cabextract not installed! Winetricks might fail to install some packages or even open
+(14:11:07) WARNING: [Winetricks]:       7z not installed! Winetricks might fail to install some packages or even open
+(14:11:09) INFO:    [Winetricks]:       ------------------------------------------------------
+warning: You are using a 64-bit WINEPREFIX. Note that many verbs only install 32-bit versions of packages. If you encounter problems, please retest in a clean 32-bit WINEPREFIX before reporting a bug.
+------------------------------------------------------
+
+(14:11:10) INFO:    [Winetricks]:       Using winetricks 20240105-next - sha256sum: c43ad4a2529441656e3f5a0b5ed6e248de15bf5cf657510ec2c0f6efc2562080 with wine-8.0 and WINEARCH=win64
+
+(14:11:11) INFO:    [Winetricks]:       winetricks GUI enabled, using zenity 4.0.1
+
+(14:11:11) ERROR:   [Winetricks]:       libEGL warning: egl: failed to create dri2 screen
+
+(14:12:43) INFO:    [Backend]:          Sugar: Setting useSteamRuntime to true
+(14:12:44) INFO:    [Backend]:          Sugar: Setting useSteamRuntime to false

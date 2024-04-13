@@ -1,0 +1,42 @@
+2024-04-09 12:08:08.446 [info] Deleted uninstalled extension from disk rust-lang.rust-analyzer /home/cj/.vscode-oss/extensions/rust-lang.rust-analyzer-0.3.1896-linux-x64
+2024-04-09 12:08:12.753 [info] Getting Manifest... ms-python.debugpy
+2024-04-09 12:08:12.754 [info] Getting Manifest... rust-lang.rust-analyzer
+2024-04-09 12:08:13.412 [info] Installing extension: ms-python.debugpy
+2024-04-09 12:08:13.494 [info] Getting Manifest... ms-python.python
+2024-04-09 12:08:13.502 [info] Installing extension: rust-lang.rust-analyzer
+2024-04-09 12:08:15.688 [error] Could not load vsce-sign module Cannot find module '@vscode/vsce-sign'
+Require stack:
+- /usr/share/vscodium/resources/app/out/bootstrap-amd.js
+- /usr/share/vscodium/resources/app/out/bootstrap-fork.js
+- 
+2024-04-09 12:08:15.692 [info] Extension signature verification is not done: ms-python.debugpy
+2024-04-09 12:08:15.944 [info] Extracted extension to file:///home/cj/.vscode-oss/extensions/ms-python.debugpy-2024.4.0-linux-x64: ms-python.debugpy
+2024-04-09 12:08:15.947 [info] Renamed to /home/cj/.vscode-oss/extensions/ms-python.debugpy-2024.4.0-linux-x64
+2024-04-09 12:08:15.949 [info] Extracting extension completed. ms-python.debugpy
+2024-04-09 12:08:15.954 [info] Extension installed successfully: ms-python.debugpy
+2024-04-09 12:08:15.955 [info] Marked extension as uninstalled ms-python.debugpy-2024.2.0-linux-x64
+2024-04-09 12:08:16.028 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/cj/.vscode-oss/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/cj/.vscode-oss/extensions/extensions.json.vsctmp'
+    at r.create (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:35658)
+    at a (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:35793)
+    at i.toFileSystemProviderError (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:48621)
+    at i.stat (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:39216)
+    at async w.stat (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:21720)
+    at async Y.onDidFilesChange (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:102:133810)
+2024-04-09 12:08:16.468 [error] Could not load vsce-sign module Cannot find module '@vscode/vsce-sign'
+Require stack:
+- /usr/share/vscodium/resources/app/out/bootstrap-amd.js
+- /usr/share/vscodium/resources/app/out/bootstrap-fork.js
+- 
+2024-04-09 12:08:16.469 [info] Extension signature verification is not done: rust-lang.rust-analyzer
+2024-04-09 12:08:16.728 [info] Extracted extension to file:///home/cj/.vscode-oss/extensions/rust-lang.rust-analyzer-0.3.1916-linux-x64: rust-lang.rust-analyzer
+2024-04-09 12:08:16.741 [info] Renamed to /home/cj/.vscode-oss/extensions/rust-lang.rust-analyzer-0.3.1916-linux-x64
+2024-04-09 12:08:16.742 [info] Extracting extension completed. rust-lang.rust-analyzer
+2024-04-09 12:08:16.751 [info] Extension installed successfully: rust-lang.rust-analyzer
+2024-04-09 12:08:16.753 [info] Marked extension as uninstalled rust-lang.rust-analyzer-0.3.1906-linux-x64
+2024-04-09 12:08:16.823 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/cj/.vscode-oss/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/cj/.vscode-oss/extensions/extensions.json.vsctmp'
+    at r.create (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:35658)
+    at a (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:35793)
+    at i.toFileSystemProviderError (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:48621)
+    at i.stat (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:39216)
+    at async w.stat (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:21720)
+    at async Y.onDidFilesChange (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:102:133810)

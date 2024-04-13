@@ -1,0 +1,14 @@
+{
+    "criteria": {
+      "a": {
+        "trigger": "minecraft:recipe_crafted",
+        "conditions": {
+          "recipe_id": "testing:stone"
+        }
+      }
+    },
+    "rewards": {
+      "function": "testing:recipe_triggered/stone"
+    }
+  }
+  

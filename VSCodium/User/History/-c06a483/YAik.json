@@ -1,0 +1,8 @@
+{
+    "workbench.colorTheme": "Catppuccin Mocha",
+    "catppuccin.accentColor": "maroon",
+    "editor.largeFileOptimizations": false,
+    "rust-analyzer.check.command": "clippy",
+    "git.suggestSmartCommit": false,
+    "editor.fontFamily": "'Droid Sans Mono', 'monospace', monospace"
+}

@@ -1,0 +1,19 @@
+2024-03-29 17:31:07.883 [info] Getting Manifest... mads-hartmann.bash-ide-vscode
+2024-03-29 17:31:07.924 [info] Installing extension: mads-hartmann.bash-ide-vscode
+2024-03-29 17:31:09.199 [error] Could not load vsce-sign module Cannot find module '@vscode/vsce-sign'
+Require stack:
+- /usr/share/vscodium/resources/app/out/bootstrap-amd.js
+- /usr/share/vscodium/resources/app/out/bootstrap-fork.js
+- 
+2024-03-29 17:31:09.202 [info] Extension signature verification is not done: mads-hartmann.bash-ide-vscode
+2024-03-29 17:31:09.495 [info] Extracted extension to file:///home/cj/.vscode-oss/extensions/mads-hartmann.bash-ide-vscode-1.38.0-universal: mads-hartmann.bash-ide-vscode
+2024-03-29 17:31:09.515 [info] Renamed to /home/cj/.vscode-oss/extensions/mads-hartmann.bash-ide-vscode-1.38.0-universal
+2024-03-29 17:31:09.516 [info] Extracting extension completed. mads-hartmann.bash-ide-vscode
+2024-03-29 17:31:09.530 [info] Extension installed successfully: mads-hartmann.bash-ide-vscode
+2024-03-29 17:31:09.595 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/cj/.vscode-oss/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/cj/.vscode-oss/extensions/extensions.json.vsctmp'
+    at r.create (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:35658)
+    at a (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:35793)
+    at i.toFileSystemProviderError (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:48621)
+    at i.stat (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:39216)
+    at async w.stat (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:21720)
+    at async Y.onDidFilesChange (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:102:133810)

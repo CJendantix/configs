@@ -1,0 +1,6 @@
+[Warn  - 5:09:36 AM] 09:09:36.008 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/workspaces-move.sh: syntax error
+[Info  - 5:09:36 AM] 09:09:36.008 INFO BackgroundAnalysis: resolving glob "**/*@(.sh|.inc|.bash|.command)" inside "file:///home/cj/.local/share/scripts"...
+[Info  - 5:09:36 AM] 09:09:36.015 INFO BackgroundAnalysis: Glob resolved with 3 files after 0.007 seconds
+[Warn  - 5:09:36 AM] 09:09:36.022 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/workspaces-move.sh: syntax error
+[Warn  - 5:09:36 AM] 09:09:36.022 WARNING ⛔️ Error while parsing file:///home/cj/.local/share/scripts/workspaces.sh: syntax error
+[Info  - 5:09:36 AM] 09:09:36.023 INFO BackgroundAnalysis: Completed after 0.015 seconds.

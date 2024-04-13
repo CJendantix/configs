@@ -1,0 +1,19 @@
+2024-03-31 05:11:28.901 [info] Getting Manifest... spgoding.datapack-language-server
+2024-03-31 05:11:28.952 [info] Installing extension: spgoding.datapack-language-server
+2024-03-31 05:11:29.957 [error] Could not load vsce-sign module Cannot find module '@vscode/vsce-sign'
+Require stack:
+- /usr/share/vscodium/resources/app/out/bootstrap-amd.js
+- /usr/share/vscodium/resources/app/out/bootstrap-fork.js
+- 
+2024-03-31 05:11:29.961 [info] Extension signature verification is not done: spgoding.datapack-language-server
+2024-03-31 05:11:30.000 [info] Extracted extension to file:///home/cj/.vscode-oss/extensions/spgoding.datapack-language-server-3.4.19-universal: spgoding.datapack-language-server
+2024-03-31 05:11:30.002 [info] Renamed to /home/cj/.vscode-oss/extensions/spgoding.datapack-language-server-3.4.19-universal
+2024-03-31 05:11:30.004 [info] Extracting extension completed. spgoding.datapack-language-server
+2024-03-31 05:11:30.010 [info] Extension installed successfully: spgoding.datapack-language-server
+2024-03-31 05:11:30.085 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/cj/.vscode-oss/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/cj/.vscode-oss/extensions/extensions.json.vsctmp'
+    at r.create (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:35658)
+    at a (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:35793)
+    at i.toFileSystemProviderError (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:48621)
+    at i.stat (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:39216)
+    at async w.stat (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:21720)
+    at async Y.onDidFilesChange (/usr/share/vscodium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:102:133810)

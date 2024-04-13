@@ -1,0 +1,45 @@
+2024-03-29 16:55:51.732 [info] Started local extension host with pid 71682.
+2024-03-29 16:55:54.731 [info] [perf] Render performance baseline is 17ms
+2024-03-29 16:56:14.237 [info] Started local extension host with pid 72100.
+2024-03-29 16:56:16.868 [info] [perf] Render performance baseline is 17ms
+2024-03-29 17:10:13.601 [error] Unable to read file '/home/cj/.local/share/scripts/findsuffix' (Error: File not modified since): Error: Unable to read file '/home/cj/.local/share/scripts/findsuffix' (Error: File not modified since)
+    at n.restoreReadError (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:653:26211)
+    at n.doReadFileStream (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:653:25998)
+    at async h.doRead (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:2429:57405)
+    at async h.readStream (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:2429:57080)
+    at async _.resolveFromFile (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:2418:18852)
+    at async _.resolve (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:2418:16924)
+    at async vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:2429:51237
+2024-03-29 17:45:17.183 [error] There are no commenting ranges at the current position.: Error: There are no commenting ranges at the current position.
+    at x.addCommentAtLine (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:2343:3423)
+    at x.addOrToggleCommentAtLine (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:2343:2827)
+    at x.onEditorMouseUp (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:2343:2450)
+    at l.value (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:2342:27875)
+    at q._deliver (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:87:2465)
+    at q._deliverQueue (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:87:2556)
+    at q.fire (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:87:2891)
+    at q.fire (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:753:25295)
+    at de.onMouseUp (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:753:22577)
+    at y.emitMouseUp (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:95:44468)
+    at A.emitMouseUp (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:689:46700)
+    at m._onMouseUp (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:727:17396)
+    at vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:727:14136
+    at HTMLDivElement.<anonymous> (vscode-file://vscode-app/usr/share/vscodium/resources/app/out/vs/workbench/workbench.desktop.main.js:722:42006)
+2024-03-29 18:36:00.728 [error] name must not be falsy: Error: name must not be falsy
+	at h.validate (/usr/share/vscodium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:148:19898)
+	at new h (/usr/share/vscodium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:148:20136)
+	at asSymbolInformation (/home/cj/.vscode-oss/extensions/mads-hartmann.bash-ide-vscode-1.38.0-universal/node_modules/vscode-languageclient/lib/common/protocolConverter.js:593:15)
+	at convertBatch (/home/cj/.vscode-oss/extensions/mads-hartmann.bash-ide-vscode-1.38.0-universal/node_modules/vscode-languageclient/lib/common/utils/async.js:193:25)
+	at Object.map (/home/cj/.vscode-oss/extensions/mads-hartmann.bash-ide-vscode-1.38.0-universal/node_modules/vscode-languageclient/lib/common/utils/async.js:202:17)
+	at Object.asSymbolInformations (/home/cj/.vscode-oss/extensions/mads-hartmann.bash-ide-vscode-1.38.0-universal/node_modules/vscode-languageclient/lib/common/protocolConverter.js:558:22)
+	at _provideDocumentSymbols (/home/cj/.vscode-oss/extensions/mads-hartmann.bash-ide-vscode-1.38.0-universal/node_modules/vscode-languageclient/lib/common/documentSymbol.js:86:76)
+	at async u.provideDocumentSymbols (/usr/share/vscodium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:107774)
+2024-03-29 19:28:33.905 [error] spawn linux ENOENT: Error: spawn linux ENOENT
+    at ChildProcess._handle.onexit (node:internal/child_process:283:19)
+    at onErrorNT (node:internal/child_process:476:16)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+2024-03-29 19:36:51.445 [error] spawn linux ENOENT: Error: spawn linux ENOENT
+    at ChildProcess._handle.onexit (node:internal/child_process:283:19)
+    at onErrorNT (node:internal/child_process:476:16)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+2024-03-29 19:39:05.218 [error] [text file model] handleSaveError(6) - exit - resulted in a save error: Error: Unable to write file '/home/cj/.local/share/scripts/workspaces-move.sh' (Error: File Modified Since) file:///home/cj/.local/share/scripts/workspaces-move.sh

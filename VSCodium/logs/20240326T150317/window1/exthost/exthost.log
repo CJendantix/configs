@@ -1,0 +1,29 @@
+2024-03-26 15:03:18.425 [info] Extension host with pid 5269 started
+2024-03-26 15:03:18.426 [info] Skipping acquiring lock for /home/cj/.config/VSCodium/User/workspaceStorage/24a400fa3678de6e01e926b3c016417d.
+2024-03-26 15:03:18.479 [info] ExtensionService#_doActivateExtension rust-lang.rust-analyzer, startup: false, activationEvent: 'onLanguage:rust'
+2024-03-26 15:03:18.496 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-03-26 15:03:18.721 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-03-26 15:03:18.722 [info] ExtensionService#_doActivateExtension hbenl.test-adapter-converter, startup: true, activationEvent: '*', root cause: hbenl.vscode-test-explorer
+2024-03-26 15:03:18.733 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-03-26 15:03:18.754 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-03-26 15:03:18.759 [info] ExtensionService#_doActivateExtension hbenl.vscode-test-explorer, startup: true, activationEvent: '*'
+2024-03-26 15:03:18.833 [info] ExtensionService#_doActivateExtension serayuzgur.crates, startup: true, activationEvent: 'workspaceContains:*/Cargo.toml'
+2024-03-26 15:03:18.867 [info] Eager extensions activated
+2024-03-26 15:03:18.880 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-03-26 15:03:18.881 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-03-26 15:03:18.885 [info] ExtensionService#_doActivateExtension Catppuccin.catppuccin-vsc, startup: false, activationEvent: 'onStartupFinished'
+2024-03-26 15:03:18.888 [info] ExtensionService#_doActivateExtension vadimcn.vscode-lldb, startup: false, activationEvent: 'onStartupFinished'
+2024-03-26 15:03:18.900 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2024-03-26 20:07:21.621 [error] Error: INVALID code lens resolved, lacks command: rust-lang.rust-analyzer
+	at s.resolveCodeLens (/usr/share/vscodium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:109626)
+	at runNextTicks (node:internal/process/task_queues:60:5)
+	at process.processImmediate (node:internal/timers:447:9)
+2024-03-26 20:07:21.621 [error] Error: INVALID code lens resolved, lacks command: rust-lang.rust-analyzer
+	at s.resolveCodeLens (/usr/share/vscodium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:109626)
+2024-03-26 20:09:39.601 [error] Error: INVALID code lens resolved, lacks command: rust-lang.rust-analyzer
+	at s.resolveCodeLens (/usr/share/vscodium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:109626)
+	at runNextTicks (node:internal/process/task_queues:60:5)
+	at process.processImmediate (node:internal/timers:447:9)
+2024-03-26 20:09:39.601 [error] Error: INVALID code lens resolved, lacks command: rust-lang.rust-analyzer
+	at s.resolveCodeLens (/usr/share/vscodium/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:109626)
+2024-03-26 20:19:14.827 [info] ExtensionService#_doActivateExtension vscode.simple-browser, startup: false, activationEvent: 'onOpenExternalUri:https'

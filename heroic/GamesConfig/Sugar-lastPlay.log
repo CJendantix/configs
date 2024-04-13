@@ -4,7 +4,7 @@ Installed in: /home/cj/Games/Heroic/rocketleague
 
 System Info:
 CPU: 16x AMD Ryzen 7 5800X 8-Core Processor
-Memory: 33.57 GB (used: 1.39 GB)
+Memory: 33.57 GB (used: 4.41 GB)
 GPUs:
   GPU 0:
     Name: NVIDIA Corporation GA104 [GeForce RTX 3060 Ti]
@@ -32,6 +32,7 @@ Game Settings: {
 	"wrapperOptions": [],
 	"showFps": false,
 	"useGameMode": false,
+	"useSteamRuntime": false,
 	"language": "",
 	"wineVersion": {
 		"bin": "/home/cj/.local/share/Steam/steamapps/common/Proton 8.0/proton",
@@ -43,7 +44,7 @@ Game Settings: {
 	"autoInstallDxvkNvapi": true
 }
 
-Game launched at: Tue Mar 12 2024 03:56:01 GMT-0400 (Eastern Daylight Time)
+Game launched at: Tue Mar 12 2024 14:15:34 GMT-0400 (Eastern Daylight Time)
 
 Launch Command: HEROIC_APP_NAME=Sugar HEROIC_APP_RUNNER=legendary HEROIC_APP_SOURCE=epic LD_PRELOAD= DOTNET_BUNDLE_EXTRACT_BASE_DIR= DOTNET_ROOT= STEAM_COMPAT_CLIENT_INSTALL_PATH=/home/cj/.steam/steam STEAM_COMPAT_DATA_PATH="/home/cj/Games/Heroic/Prefixes/default/Rocket League" STEAM_COMPAT_INSTALL_PATH=/home/cj/Games/Heroic/rocketleague WINE_FULLSCREEN_FSR=0 PROTON_ENABLE_NVAPI=1 DXVK_NVAPI_ALLOW_OTHER_DRIVERS=1 STEAM_COMPAT_APP_ID=0 SteamAppId=0 SteamGameId=heroic-rocketleague PROTON_LOG_DIR=/home/cj /opt/heroic/resources/app.asar.unpacked/build/bin/linux/legendary launch Sugar --no-wine --wrapper " '/home/cj/.local/share/Steam/steamapps/common/Proton 8.0/proton' run" --language en
 
@@ -61,4 +62,372 @@ wine: Read access denied for device L"\\??\\Z:\\", FS volume label and serial ar
 wine: Read access denied for device L"\\??\\Z:\\", FS volume label and serial are not available.
 wine: Read access denied for device L"\\??\\Z:\\", FS volume label and serial are not available.
 Detected 1 GPUs for rendering
+FUniqueNetId::FromString - could not parse ''
+FUniqueNetId::FromString - could not parse ''
+FUniqueNetId::FromString - could not parse ''
+FUniqueNetId::FromString - could not parse ''
+FUniqueNetId::FromString - could not parse ''
+FUniqueNetId::FromString - could not parse ''
+FUniqueNetId::FromString - could not parse ''
+FUniqueNetId::FromString - could not parse ''
+FUniqueNetId::FromString - could not parse ''
+ScriptWarning, Accessed None 'GameEvent'
+	Car_TA UtopiaStadium_P.TheWorld:PersistentLevel.Car_TA_62
+	Function TAGame.Car_TA:GetPreviewTeamIndex:0046
+Script call stack:
+	Function TAGame.Ball_TA:ReplicatedEvent
+	Function TAGame.Ball_TA:Explode
+	Function TAGame.Ball_TA:InitExplosionFX
+	Function TAGame.ProductAsset_GoalExplosion_TA:GetExplosionFXActorForPRI
+	Function TAGame.PaintedFXSelector_TA:GetFXActorForPRI
+	Function TAGame.Car_TA:GetLoadoutTeamIndex
+	Function TAGame.Car_TA:GetPreviewTeamIndex
+
+ScriptWarning, Accessed None 'ControllerRef'
+	Car_TA UtopiaStadium_P.TheWorld:PersistentLevel.Car_TA_62
+	Function TAGame.Car_TA:GetPreviewTeamIndex:0069
+Script call stack:
+	Function TAGame.Ball_TA:ReplicatedEvent
+	Function TAGame.Ball_TA:Explode
+	Function TAGame.Ball_TA:InitExplosionFX
+	Function TAGame.ProductAsset_GoalExplosion_TA:GetExplosionFXActorForPRI
+	Function TAGame.PaintedFXSelector_TA:GetFXActorForPRI
+	Function TAGame.Car_TA:GetLoadoutTeamIndex
+	Function TAGame.Car_TA:GetPreviewTeamIndex
+
+FUniqueNetId::FromString - could not parse ''
+FUniqueNetId::FromString - could not parse ''
+FUniqueNetId::FromString - could not parse '2'
+FUniqueNetId::FromString - could not parse ''
+FUniqueNetId::FromString - could not parse ''
+FUniqueNetId::FromString - could not parse ''
+FUniqueNetId::FromString - could not parse ''
+FUniqueNetId::FromString - could not parse ''
+FUniqueNetId::FromString - could not parse ''
+FUniqueNetId::FromString - could not parse ''
+FUniqueNetId::FromString - could not parse ''
+FUniqueNetId::FromString - could not parse ''
+FUniqueNetId::FromString - could not parse ''
+FUniqueNetId::FromString - could not parse ''
+FUniqueNetId::FromString - could not parse ''
+FUniqueNetId::FromString - could not parse ''
+Boost_Burnout.FX.FXActor could not find a bone/socket to attach to. Attachment=(TailLight_R) Socket/Bone=(TailLight_R) AttachmentActor=(Car_TA_294) AttachToActor=(FXActor_Boost_TA_296)
+Boost_Burnout.FX.FXActor could not find a bone/socket to attach to. Attachment=(TailLight_L) Socket/Bone=(TailLight_L) AttachmentActor=(Car_TA_294) AttachToActor=(FXActor_Boost_TA_296)
+Boost_Burnout.FX.FXActor could not find a bone/socket to attach to. Attachment=(TailLight_R) Socket/Bone=(TailLight_R) AttachmentActor=(Car_TA_298) AttachToActor=(FXActor_Boost_TA_301)
+Boost_Burnout.FX.FXActor could not find a bone/socket to attach to. Attachment=(TailLight_L) Socket/Bone=(TailLight_L) AttachmentActor=(Car_TA_298) AttachToActor=(FXActor_Boost_TA_301)
+Boost_Burnout.FX.FXActor could not find a bone/socket to attach to. Attachment=(TailLight_R) Socket/Bone=(TailLight_R) AttachmentActor=(Car_TA_304) AttachToActor=(FXActor_Boost_TA_306)
+Boost_Burnout.FX.FXActor could not find a bone/socket to attach to. Attachment=(TailLight_L) Socket/Bone=(TailLight_L) AttachmentActor=(Car_TA_304) AttachToActor=(FXActor_Boost_TA_306)
+Boost_Burnout.FX.FXActor could not find a bone/socket to attach to. Attachment=(TailLight_R) Socket/Bone=(TailLight_R) AttachmentActor=(Car_TA_307) AttachToActor=(FXActor_Boost_TA_312)
+Boost_Burnout.FX.FXActor could not find a bone/socket to attach to. Attachment=(TailLight_L) Socket/Bone=(TailLight_L) AttachmentActor=(Car_TA_307) AttachToActor=(FXActor_Boost_TA_312)
+Boost_Burnout.FX.FXActor could not find a bone/socket to attach to. Attachment=(TailLight_R) Socket/Bone=(TailLight_R) AttachmentActor=(Car_TA_315) AttachToActor=(FXActor_Boost_TA_316)
+Boost_Burnout.FX.FXActor could not find a bone/socket to attach to. Attachment=(TailLight_L) Socket/Bone=(TailLight_L) AttachmentActor=(Car_TA_315) AttachToActor=(FXActor_Boost_TA_316)
+Boost_Burnout.FX.FXActor could not find a bone/socket to attach to. Attachment=(TailLight_R) Socket/Bone=(TailLight_R) AttachmentActor=(Car_TA_319) AttachToActor=(FXActor_Boost_TA_321)
+Boost_Burnout.FX.FXActor could not find a bone/socket to attach to. Attachment=(TailLight_L) Socket/Bone=(TailLight_L) AttachmentActor=(Car_TA_319) AttachToActor=(FXActor_Boost_TA_321)
+ScriptWarning, Accessed None 'GameEvent'
+	Car_TA street_p.TheWorld:PersistentLevel.Car_TA_319
+	Function TAGame.Car_TA:GetPreviewTeamIndex:0046
+Script call stack:
+	Function TAGame.Ball_TA:ReplicatedEvent
+	Function TAGame.Ball_TA:Explode
+	Function TAGame.Ball_TA:InitExplosionFX
+	Function TAGame.ProductAsset_GoalExplosion_TA:GetExplosionFXActorForPRI
+	Function TAGame.PaintedFXSelector_TA:GetFXActorForPRI
+	Function TAGame.Car_TA:GetLoadoutTeamIndex
+	Function TAGame.Car_TA:GetPreviewTeamIndex
+
+ScriptWarning, Accessed None 'ControllerRef'
+	Car_TA street_p.TheWorld:PersistentLevel.Car_TA_319
+	Function TAGame.Car_TA:GetPreviewTeamIndex:0069
+Script call stack:
+	Function TAGame.Ball_TA:ReplicatedEvent
+	Function TAGame.Ball_TA:Explode
+	Function TAGame.Ball_TA:InitExplosionFX
+	Function TAGame.ProductAsset_GoalExplosion_TA:GetExplosionFXActorForPRI
+	Function TAGame.PaintedFXSelector_TA:GetFXActorForPRI
+	Function TAGame.Car_TA:GetLoadoutTeamIndex
+	Function TAGame.Car_TA:GetPreviewTeamIndex
+
+Boost_Burnout.FX.FXActor could not find a bone/socket to attach to. Attachment=(TailLight_R) Socket/Bone=(TailLight_R) AttachmentActor=(Car_TA_323) AttachToActor=(FXActor_Boost_TA_326)
+Boost_Burnout.FX.FXActor could not find a bone/socket to attach to. Attachment=(TailLight_L) Socket/Bone=(TailLight_L) AttachmentActor=(Car_TA_323) AttachToActor=(FXActor_Boost_TA_326)
+Boost_Burnout.FX.FXActor could not find a bone/socket to attach to. Attachment=(TailLight_R) Socket/Bone=(TailLight_R) AttachmentActor=(Car_TA_327) AttachToActor=(FXActor_Boost_TA_327)
+Boost_Burnout.FX.FXActor could not find a bone/socket to attach to. Attachment=(TailLight_L) Socket/Bone=(TailLight_L) AttachmentActor=(Car_TA_327) AttachToActor=(FXActor_Boost_TA_327)
+Boost_Burnout.FX.FXActor could not find a bone/socket to attach to. Attachment=(TailLight_R) Socket/Bone=(TailLight_R) AttachmentActor=(Car_TA_332) AttachToActor=(FXActor_Boost_TA_333)
+Boost_Burnout.FX.FXActor could not find a bone/socket to attach to. Attachment=(TailLight_L) Socket/Bone=(TailLight_L) AttachmentActor=(Car_TA_332) AttachToActor=(FXActor_Boost_TA_333)
+ScriptWarning, Accessed None 'GameEvent'
+	Car_TA street_p.TheWorld:PersistentLevel.Car_TA_332
+	Function TAGame.Car_TA:GetPreviewTeamIndex:0046
+Script call stack:
+	Function TAGame.Ball_TA:ReplicatedEvent
+	Function TAGame.Ball_TA:Explode
+	Function TAGame.Ball_TA:InitExplosionFX
+	Function TAGame.ProductAsset_GoalExplosion_TA:GetExplosionFXActorForPRI
+	Function TAGame.PaintedFXSelector_TA:GetFXActorForPRI
+	Function TAGame.Car_TA:GetLoadoutTeamIndex
+	Function TAGame.Car_TA:GetPreviewTeamIndex
+
+ScriptWarning, Accessed None 'ControllerRef'
+	Car_TA street_p.TheWorld:PersistentLevel.Car_TA_332
+	Function TAGame.Car_TA:GetPreviewTeamIndex:0069
+Script call stack:
+	Function TAGame.Ball_TA:ReplicatedEvent
+	Function TAGame.Ball_TA:Explode
+	Function TAGame.Ball_TA:InitExplosionFX
+	Function TAGame.ProductAsset_GoalExplosion_TA:GetExplosionFXActorForPRI
+	Function TAGame.PaintedFXSelector_TA:GetFXActorForPRI
+	Function TAGame.Car_TA:GetLoadoutTeamIndex
+	Function TAGame.Car_TA:GetPreviewTeamIndex
+
+Boost_Burnout.FX.FXActor could not find a bone/socket to attach to. Attachment=(TailLight_R) Socket/Bone=(TailLight_R) AttachmentActor=(Car_TA_334) AttachToActor=(FXActor_Boost_TA_336)
+Boost_Burnout.FX.FXActor could not find a bone/socket to attach to. Attachment=(TailLight_L) Socket/Bone=(TailLight_L) AttachmentActor=(Car_TA_334) AttachToActor=(FXActor_Boost_TA_336)
+Boost_Burnout.FX.FXActor could not find a bone/socket to attach to. Attachment=(TailLight_R) Socket/Bone=(TailLight_R) AttachmentActor=(Car_TA_340) AttachToActor=(FXActor_Boost_TA_342)
+Boost_Burnout.FX.FXActor could not find a bone/socket to attach to. Attachment=(TailLight_L) Socket/Bone=(TailLight_L) AttachmentActor=(Car_TA_340) AttachToActor=(FXActor_Boost_TA_342)
+ScriptWarning, Accessed None 'GameEvent'
+	Car_TA street_p.TheWorld:PersistentLevel.Car_TA_340
+	Function TAGame.Car_TA:GetPreviewTeamIndex:0046
+Script call stack:
+	Function TAGame.Ball_TA:ReplicatedEvent
+	Function TAGame.Ball_TA:Explode
+	Function TAGame.Ball_TA:InitExplosionFX
+	Function TAGame.ProductAsset_GoalExplosion_TA:GetExplosionFXActorForPRI
+	Function TAGame.PaintedFXSelector_TA:GetFXActorForPRI
+	Function TAGame.Car_TA:GetLoadoutTeamIndex
+	Function TAGame.Car_TA:GetPreviewTeamIndex
+
+ScriptWarning, Accessed None 'ControllerRef'
+	Car_TA street_p.TheWorld:PersistentLevel.Car_TA_340
+	Function TAGame.Car_TA:GetPreviewTeamIndex:0069
+Script call stack:
+	Function TAGame.Ball_TA:ReplicatedEvent
+	Function TAGame.Ball_TA:Explode
+	Function TAGame.Ball_TA:InitExplosionFX
+	Function TAGame.ProductAsset_GoalExplosion_TA:GetExplosionFXActorForPRI
+	Function TAGame.PaintedFXSelector_TA:GetFXActorForPRI
+	Function TAGame.Car_TA:GetLoadoutTeamIndex
+	Function TAGame.Car_TA:GetPreviewTeamIndex
+
+FUniqueNetId::FromString - could not parse ''
+Boost_Burnout.FX.FXActor could not find a bone/socket to attach to. Attachment=(TailLight_R) Socket/Bone=(TailLight_R) AttachmentActor=(Car_TA_343) AttachToActor=(FXActor_Boost_TA_344)
+Boost_Burnout.FX.FXActor could not find a bone/socket to attach to. Attachment=(TailLight_L) Socket/Bone=(TailLight_L) AttachmentActor=(Car_TA_343) AttachToActor=(FXActor_Boost_TA_344)
+ScriptWarning, AntennaComponent_TA_224 Hat_Spartan_a_SK Could not find skel control single bone Bend03
+	AntennaComponent_TA Park_P.TheWorld:PersistentLevel.Car_TA_378.AntennaComponent_TA_224
+	Function TAGame.AntennaComponent_TA:InitAntenna:0190
+Script call stack:
+	Function TAGame.__CarMeshComponentBase_TA__AddVisualAsset_0x2:__CarMeshComponentBase_TA__AddVisualAsset_0x2
+	Function TAGame.CarMeshComponentBase_TA:AttachOrnament
+	Function TAGame.AntennaComponent_TA:InitAntenna
+
+ScriptWarning, AntennaComponent_TA_224 Hat_Spartan_a_SK Could not find skel control single bone Bend04
+	AntennaComponent_TA Park_P.TheWorld:PersistentLevel.Car_TA_378.AntennaComponent_TA_224
+	Function TAGame.AntennaComponent_TA:InitAntenna:0190
+Script call stack:
+	Function TAGame.__CarMeshComponentBase_TA__AddVisualAsset_0x2:__CarMeshComponentBase_TA__AddVisualAsset_0x2
+	Function TAGame.CarMeshComponentBase_TA:AttachOrnament
+	Function TAGame.AntennaComponent_TA:InitAntenna
+
+ScriptWarning, AntennaComponent_TA_225 Hat_Spartan_a_SK Could not find skel control single bone Bend03
+	AntennaComponent_TA Park_P.TheWorld:PersistentLevel.Car_TA_381.AntennaComponent_TA_225
+	Function TAGame.AntennaComponent_TA:InitAntenna:0190
+Script call stack:
+	Function TAGame.__CarMeshComponentBase_TA__AddVisualAsset_0x2:__CarMeshComponentBase_TA__AddVisualAsset_0x2
+	Function TAGame.CarMeshComponentBase_TA:AttachOrnament
+	Function TAGame.AntennaComponent_TA:InitAntenna
+
+ScriptWarning, AntennaComponent_TA_225 Hat_Spartan_a_SK Could not find skel control single bone Bend04
+	AntennaComponent_TA Park_P.TheWorld:PersistentLevel.Car_TA_381.AntennaComponent_TA_225
+	Function TAGame.AntennaComponent_TA:InitAntenna:0190
+Script call stack:
+	Function TAGame.__CarMeshComponentBase_TA__AddVisualAsset_0x2:__CarMeshComponentBase_TA__AddVisualAsset_0x2
+	Function TAGame.CarMeshComponentBase_TA:AttachOrnament
+	Function TAGame.AntennaComponent_TA:InitAntenna
+
+ScriptWarning, AntennaComponent_TA_227 Hat_Spartan_a_SK Could not find skel control single bone Bend03
+	AntennaComponent_TA Park_P.TheWorld:PersistentLevel.Car_TA_385.AntennaComponent_TA_227
+	Function TAGame.AntennaComponent_TA:InitAntenna:0190
+Script call stack:
+	Function TAGame.__CarMeshComponentBase_TA__AddVisualAsset_0x2:__CarMeshComponentBase_TA__AddVisualAsset_0x2
+	Function TAGame.CarMeshComponentBase_TA:AttachOrnament
+	Function TAGame.AntennaComponent_TA:InitAntenna
+
+ScriptWarning, AntennaComponent_TA_227 Hat_Spartan_a_SK Could not find skel control single bone Bend04
+	AntennaComponent_TA Park_P.TheWorld:PersistentLevel.Car_TA_385.AntennaComponent_TA_227
+	Function TAGame.AntennaComponent_TA:InitAntenna:0190
+Script call stack:
+	Function TAGame.__CarMeshComponentBase_TA__AddVisualAsset_0x2:__CarMeshComponentBase_TA__AddVisualAsset_0x2
+	Function TAGame.CarMeshComponentBase_TA:AttachOrnament
+	Function TAGame.AntennaComponent_TA:InitAntenna
+
+ScriptWarning, AntennaComponent_TA_229 Hat_Spartan_a_SK Could not find skel control single bone Bend03
+	AntennaComponent_TA Park_P.TheWorld:PersistentLevel.Car_TA_389.AntennaComponent_TA_229
+	Function TAGame.AntennaComponent_TA:InitAntenna:0190
+Script call stack:
+	Function TAGame.__CarMeshComponentBase_TA__AddVisualAsset_0x2:__CarMeshComponentBase_TA__AddVisualAsset_0x2
+	Function TAGame.CarMeshComponentBase_TA:AttachOrnament
+	Function TAGame.AntennaComponent_TA:InitAntenna
+
+ScriptWarning, AntennaComponent_TA_229 Hat_Spartan_a_SK Could not find skel control single bone Bend04
+	AntennaComponent_TA Park_P.TheWorld:PersistentLevel.Car_TA_389.AntennaComponent_TA_229
+	Function TAGame.AntennaComponent_TA:InitAntenna:0190
+Script call stack:
+	Function TAGame.__CarMeshComponentBase_TA__AddVisualAsset_0x2:__CarMeshComponentBase_TA__AddVisualAsset_0x2
+	Function TAGame.CarMeshComponentBase_TA:AttachOrnament
+	Function TAGame.AntennaComponent_TA:InitAntenna
+
+ScriptWarning, AntennaComponent_TA_231 Hat_Spartan_a_SK Could not find skel control single bone Bend03
+	AntennaComponent_TA Park_P.TheWorld:PersistentLevel.Car_TA_393.AntennaComponent_TA_231
+	Function TAGame.AntennaComponent_TA:InitAntenna:0190
+Script call stack:
+	Function TAGame.__CarMeshComponentBase_TA__AddVisualAsset_0x2:__CarMeshComponentBase_TA__AddVisualAsset_0x2
+	Function TAGame.CarMeshComponentBase_TA:AttachOrnament
+	Function TAGame.AntennaComponent_TA:InitAntenna
+
+ScriptWarning, AntennaComponent_TA_231 Hat_Spartan_a_SK Could not find skel control single bone Bend04
+	AntennaComponent_TA Park_P.TheWorld:PersistentLevel.Car_TA_393.AntennaComponent_TA_231
+	Function TAGame.AntennaComponent_TA:InitAntenna:0190
+Script call stack:
+	Function TAGame.__CarMeshComponentBase_TA__AddVisualAsset_0x2:__CarMeshComponentBase_TA__AddVisualAsset_0x2
+	Function TAGame.CarMeshComponentBase_TA:AttachOrnament
+	Function TAGame.AntennaComponent_TA:InitAntenna
+
+ScriptWarning, AntennaComponent_TA_233 Hat_Spartan_a_SK Could not find skel control single bone Bend03
+	AntennaComponent_TA Park_P.TheWorld:PersistentLevel.Car_TA_398.AntennaComponent_TA_233
+	Function TAGame.AntennaComponent_TA:InitAntenna:0190
+Script call stack:
+	Function TAGame.__CarMeshComponentBase_TA__AddVisualAsset_0x2:__CarMeshComponentBase_TA__AddVisualAsset_0x2
+	Function TAGame.CarMeshComponentBase_TA:AttachOrnament
+	Function TAGame.AntennaComponent_TA:InitAntenna
+
+ScriptWarning, AntennaComponent_TA_233 Hat_Spartan_a_SK Could not find skel control single bone Bend04
+	AntennaComponent_TA Park_P.TheWorld:PersistentLevel.Car_TA_398.AntennaComponent_TA_233
+	Function TAGame.AntennaComponent_TA:InitAntenna:0190
+Script call stack:
+	Function TAGame.__CarMeshComponentBase_TA__AddVisualAsset_0x2:__CarMeshComponentBase_TA__AddVisualAsset_0x2
+	Function TAGame.CarMeshComponentBase_TA:AttachOrnament
+	Function TAGame.AntennaComponent_TA:InitAntenna
+
+ScriptWarning, AntennaComponent_TA_235 Hat_Spartan_a_SK Could not find skel control single bone Bend03
+	AntennaComponent_TA Park_P.TheWorld:PersistentLevel.Car_TA_401.AntennaComponent_TA_235
+	Function TAGame.AntennaComponent_TA:InitAntenna:0190
+Script call stack:
+	Function TAGame.__CarMeshComponentBase_TA__AddVisualAsset_0x2:__CarMeshComponentBase_TA__AddVisualAsset_0x2
+	Function TAGame.CarMeshComponentBase_TA:AttachOrnament
+	Function TAGame.AntennaComponent_TA:InitAntenna
+
+ScriptWarning, AntennaComponent_TA_235 Hat_Spartan_a_SK Could not find skel control single bone Bend04
+	AntennaComponent_TA Park_P.TheWorld:PersistentLevel.Car_TA_401.AntennaComponent_TA_235
+	Function TAGame.AntennaComponent_TA:InitAntenna:0190
+Script call stack:
+	Function TAGame.__CarMeshComponentBase_TA__AddVisualAsset_0x2:__CarMeshComponentBase_TA__AddVisualAsset_0x2
+	Function TAGame.CarMeshComponentBase_TA:AttachOrnament
+	Function TAGame.AntennaComponent_TA:InitAntenna
+
+ScriptWarning, AntennaComponent_TA_237 Hat_Spartan_a_SK Could not find skel control single bone Bend03
+	AntennaComponent_TA Park_P.TheWorld:PersistentLevel.Car_TA_407.AntennaComponent_TA_237
+	Function TAGame.AntennaComponent_TA:InitAntenna:0190
+Script call stack:
+	Function TAGame.__CarMeshComponentBase_TA__AddVisualAsset_0x2:__CarMeshComponentBase_TA__AddVisualAsset_0x2
+	Function TAGame.CarMeshComponentBase_TA:AttachOrnament
+	Function TAGame.AntennaComponent_TA:InitAntenna
+
+ScriptWarning, AntennaComponent_TA_237 Hat_Spartan_a_SK Could not find skel control single bone Bend04
+	AntennaComponent_TA Park_P.TheWorld:PersistentLevel.Car_TA_407.AntennaComponent_TA_237
+	Function TAGame.AntennaComponent_TA:InitAntenna:0190
+Script call stack:
+	Function TAGame.__CarMeshComponentBase_TA__AddVisualAsset_0x2:__CarMeshComponentBase_TA__AddVisualAsset_0x2
+	Function TAGame.CarMeshComponentBase_TA:AttachOrnament
+	Function TAGame.AntennaComponent_TA:InitAntenna
+
+ScriptWarning, AntennaComponent_TA_239 Hat_Spartan_a_SK Could not find skel control single bone Bend03
+	AntennaComponent_TA Park_P.TheWorld:PersistentLevel.Car_TA_411.AntennaComponent_TA_239
+	Function TAGame.AntennaComponent_TA:InitAntenna:0190
+Script call stack:
+	Function TAGame.__CarMeshComponentBase_TA__AddVisualAsset_0x2:__CarMeshComponentBase_TA__AddVisualAsset_0x2
+	Function TAGame.CarMeshComponentBase_TA:AttachOrnament
+	Function TAGame.AntennaComponent_TA:InitAntenna
+
+ScriptWarning, AntennaComponent_TA_239 Hat_Spartan_a_SK Could not find skel control single bone Bend04
+	AntennaComponent_TA Park_P.TheWorld:PersistentLevel.Car_TA_411.AntennaComponent_TA_239
+	Function TAGame.AntennaComponent_TA:InitAntenna:0190
+Script call stack:
+	Function TAGame.__CarMeshComponentBase_TA__AddVisualAsset_0x2:__CarMeshComponentBase_TA__AddVisualAsset_0x2
+	Function TAGame.CarMeshComponentBase_TA:AttachOrnament
+	Function TAGame.AntennaComponent_TA:InitAntenna
+
+ScriptWarning, AntennaComponent_TA_241 Hat_Spartan_a_SK Could not find skel control single bone Bend03
+	AntennaComponent_TA Park_P.TheWorld:PersistentLevel.Car_TA_412.AntennaComponent_TA_241
+	Function TAGame.AntennaComponent_TA:InitAntenna:0190
+Script call stack:
+	Function TAGame.__CarMeshComponentBase_TA__AddVisualAsset_0x2:__CarMeshComponentBase_TA__AddVisualAsset_0x2
+	Function TAGame.CarMeshComponentBase_TA:AttachOrnament
+	Function TAGame.AntennaComponent_TA:InitAntenna
+
+ScriptWarning, AntennaComponent_TA_241 Hat_Spartan_a_SK Could not find skel control single bone Bend04
+	AntennaComponent_TA Park_P.TheWorld:PersistentLevel.Car_TA_412.AntennaComponent_TA_241
+	Function TAGame.AntennaComponent_TA:InitAntenna:0190
+Script call stack:
+	Function TAGame.__CarMeshComponentBase_TA__AddVisualAsset_0x2:__CarMeshComponentBase_TA__AddVisualAsset_0x2
+	Function TAGame.CarMeshComponentBase_TA:AttachOrnament
+	Function TAGame.AntennaComponent_TA:InitAntenna
+
+ScriptWarning, Accessed None 'Actor'
+	GFxData_Chat_TA Transient.GFxData_Chat_TA_24
+	Function TAGame.GFxData_Chat_TA:ClearDistracted:000F
+Script call stack:
+	Function TAGame.GFxData_Chat_TA:ClearDistracted
+
+ScriptWarning, Accessed None 'Actor'
+	GFxData_Chat_TA Transient.GFxData_Chat_TA_24
+	Function TAGame.GFxData_Chat_TA:ClearDistracted:000F
+Script call stack:
+	Function TAGame.GFxData_Chat_TA:ClearDistracted
+
+ScriptWarning, Accessed None 'Actor'
+	GFxData_Chat_TA Transient.GFxData_Chat_TA_24
+	Function TAGame.GFxData_Chat_TA:ClearDistracted:000F
+Script call stack:
+	Function TAGame.GFxData_Chat_TA:ClearDistracted
+
+ScriptWarning, Invalid product quality: 1
+	ProductAttribute_Quality_TA Transient.OnlineProduct_TA_6639:ProductAttribute_Quality_TA_384
+	Function TAGame.ProductAttribute_Quality_TA:OnInit:006D
+Script call stack:
+	Function TAGame.ProductAttribute_TA:Init
+	Function TAGame.ProductAttribute_Quality_TA:OnInit
+
+ScriptWarning, Accessed None 'Actor'
+	GFxData_Chat_TA Transient.GFxData_Chat_TA_24
+	Function TAGame.GFxData_Chat_TA:ClearDistracted:000F
+Script call stack:
+	Function TAGame.GFxData_Chat_TA:ClearDistracted
+
+ScriptWarning, Accessed None 'Actor'
+	GFxData_Chat_TA Transient.GFxData_Chat_TA_24
+	Function TAGame.GFxData_Chat_TA:ClearDistracted:000F
+Script call stack:
+	Function TAGame.GFxData_Chat_TA:ClearDistracted
+
+FUniqueNetId::FromString - could not parse ''
+ScriptWarning, Accessed None 'GameEvent'
+	Car_TA Stadium_P.TheWorld:PersistentLevel.Car_TA_469
+	Function TAGame.Car_TA:GetPreviewTeamIndex:0046
+Script call stack:
+	Function TAGame.Ball_TA:ReplicatedEvent
+	Function TAGame.Ball_TA:Explode
+	Function TAGame.Ball_TA:InitExplosionFX
+	Function TAGame.ProductAsset_GoalExplosion_TA:GetExplosionFXActorForPRI
+	Function TAGame.PaintedFXSelector_TA:GetFXActorForPRI
+	Function TAGame.Car_TA:GetLoadoutTeamIndex
+	Function TAGame.Car_TA:GetPreviewTeamIndex
+
+ScriptWarning, Accessed None 'ControllerRef'
+	Car_TA Stadium_P.TheWorld:PersistentLevel.Car_TA_469
+	Function TAGame.Car_TA:GetPreviewTeamIndex:0069
+Script call stack:
+	Function TAGame.Ball_TA:ReplicatedEvent
+	Function TAGame.Ball_TA:Explode
+	Function TAGame.Ball_TA:InitExplosionFX
+	Function TAGame.ProductAsset_GoalExplosion_TA:GetExplosionFXActorForPRI
+	Function TAGame.PaintedFXSelector_TA:GetFXActorForPRI
+	Function TAGame.Car_TA:GetLoadoutTeamIndex
+	Function TAGame.Car_TA:GetPreviewTeamIndex
+
 ============= End of game logs =============
